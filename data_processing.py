@@ -1,8 +1,6 @@
-# data_processing.py
 import pandas as pd
 import json
 import os
-import numpy as np
 from tqdm import tqdm
 from config import Config
 
@@ -53,7 +51,6 @@ class DataProcessor:
                 ),
             }
 
-            # Parse authorships and institutions
             authorships = work.get("authorships", [])
             record["authors"] = []
             record["institutions"] = []
@@ -86,7 +83,6 @@ class DataProcessor:
                         if inst.get("country_code"):
                             record["countries"].append(inst.get("country_code"))
 
-            # Remove duplicates
             record["countries"] = list(set(record["countries"]))
             record["institution_ids"] = list(set(record["institution_ids"]))
 
@@ -98,7 +94,6 @@ class DataProcessor:
         """Create the ALL dataset with derived fields"""
         df_all = df.copy()
 
-        # Add derived flags
         df_all["multi_institution"] = df_all["institution_ids"].apply(
             lambda x: len(x) > 1 if isinstance(x, list) else False
         )
@@ -107,7 +102,6 @@ class DataProcessor:
             lambda x: len(x) > 1 if isinstance(x, list) else False
         )
 
-        # Count authors and institutions
         df_all["authors_count"] = df_all["authors"].apply(
             lambda x: len(x) if isinstance(x, list) else 0
         )
@@ -123,23 +117,18 @@ class DataProcessor:
         return df_all
 
 
-# Run processing
 if __name__ == "__main__":
     processor = DataProcessor()
 
-    # Load and parse data
     raw_works = processor.load_raw_data()
     df = processor.parse_works_to_dataframe(raw_works)
 
-    # Create ALL dataset
     df_all = processor.create_all_dataset(df)
 
-    # Save ALL dataset
     output_file = os.path.join(processor.config.PROCESSED_DATA_PATH, "works_all.csv")
     df_all.to_csv(output_file, index=False)
     print(f"ALL dataset saved to: {output_file}")
 
-    # Save as JSON for easier handling
     json_file = os.path.join(processor.config.PROCESSED_DATA_PATH, "works_all.json")
     df_all.to_json(json_file, orient="records", indent=2)
     print(f"ALL dataset saved as JSON: {json_file}")
