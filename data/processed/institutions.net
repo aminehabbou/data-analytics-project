@@ -1,0 +1,4407 @@
+*Vertices 579
+1 "Delft University of Technology"
+2 "Technical University of Munich"
+3 "Wageningen University & Research"
+4 "University of Leicester"
+5 "Imperial College London"
+6 "Centre National de la Recherche Scientifique"
+7 "University of Cambridge"
+8 "Silesian University of Technology"
+9 "University of Pisa"
+10 "University of Bologna"
+11 "University of Electronic Science and Technology of China"
+12 "Swansea University"
+13 "University of Amsterdam"
+14 "École Supérieure de Commerce de Toulouse"
+15 "Google (United States)"
+16 "University of Pavia"
+17 "Universidad de Salamanca"
+18 "Copenhagen Business School"
+19 "University of Toronto"
+20 "Harvard University"
+21 "TU Dortmund University"
+22 "University of Manchester"
+23 "Monash University"
+24 "Qatar University"
+25 "Symbiosis International University"
+26 "Massachusetts Institute of Technology"
+27 "Chalmers University of Technology"
+28 "University of Pennsylvania"
+29 "University of Tübingen"
+30 "The University of Texas at Austin"
+31 "Universidad Politécnica de Madrid"
+32 "University of Gothenburg"
+33 "University of Minho"
+34 "University of Trento"
+35 "Technische Universität Berlin"
+36 "University of Twente"
+37 "Universidad de Granada"
+38 "Opole University of Technology"
+39 "Stockholm University"
+40 "University of Milan"
+41 "Harvard University Press"
+42 "University of Johannesburg"
+43 "Leiden University"
+44 "Luleå University of Technology"
+45 "Université Paris Cité"
+46 "Norwegian University of Science and Technology"
+47 "National University of Singapore"
+48 "TU Wien"
+49 "Queen Mary University of London"
+50 "Universidad de Jaén"
+51 "Universidade de Santiago de Compostela"
+52 "University of Bedfordshire"
+53 "City University of Hong Kong"
+54 "SKEMA Business School"
+55 "Microsoft (United States)"
+56 "University College Cork"
+57 "Aston University"
+58 "The University of Sydney"
+59 "University Hospital Bonn"
+60 "Cornell University"
+61 "University of Pittsburgh"
+62 "Universidade do Porto"
+63 "University of Oslo"
+64 "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+65 "University of Sharjah"
+66 "Italian Institute of Technology"
+67 "UNSW Sydney"
+68 "German Research Centre for Artificial Intelligence"
+69 "ETH Zurich"
+70 "Rutgers, The State University of New Jersey"
+71 "Sorbonne Université"
+72 "University of Oxford"
+73 "Graz University of Technology"
+74 "Shenzhen Institutes of Advanced Technology"
+75 "Paderborn University"
+76 "University of Cagliari"
+77 "University of Central Florida"
+78 "Huazhong University of Science and Technology"
+79 "Bauhaus-Universität Weimar"
+80 "University of York"
+81 "University of Bari Aldo Moro"
+82 "University of Tartu"
+83 "Indian Institute of Technology Roorkee"
+84 "Kaunas University of Technology"
+85 "Medical University of Graz"
+86 "Intel (United States)"
+87 "University of Milano-Bicocca"
+88 "University of Michigan"
+89 "European Organization for Nuclear Research"
+90 "AGH University of Krakow"
+91 "Indian Institute of Technology Delhi"
+92 "Université de Strasbourg"
+93 "University of Naples Federico II"
+94 "Universidad de Sevilla"
+95 "Universidade da Coruña"
+96 "University of Otago"
+97 "Vytautas Magnus University"
+98 "Ludwig-Maximilians-Universität München"
+99 "Universidad de Málaga"
+100 "Beihang University"
+101 "Ollscoil na Gaillimhe – University of Galway"
+102 "Airbus (France)"
+103 "University of Technology Sydney"
+104 "Universität Hamburg"
+105 "University of Geneva"
+106 "Saarland University"
+107 "National Technical University of Athens"
+108 "Politecnico di Milano"
+109 "University of Patras"
+110 "Otto-von-Guericke University Magdeburg"
+111 "Stanford University"
+112 "University of Eastern Finland"
+113 "Tsinghua University"
+114 "KU Leuven"
+115 "Indian Institute of Tropical Meteorology"
+116 "Gangneung–Wonju National University"
+117 "King Fahd University of Petroleum and Minerals"
+118 "NIIT (India)"
+119 "University of Stuttgart"
+120 "Centrum Wiskunde & Informatica"
+121 "Vrije Universiteit Brussel"
+122 "California State University, Monterey Bay"
+123 "Homs University"
+124 "Janssen (Belgium)"
+125 "Selçuk University"
+126 "Prince Mohammad bin Fahd University"
+127 "University of Padua"
+128 "Universitat Oberta de Catalunya"
+129 "Universiti Sains Malaysia"
+130 "University of Bradford"
+131 "Ton Duc Thang University"
+132 "Willamette University"
+133 "Southwest University"
+134 "University of Louisville"
+135 "Loughborough University"
+136 "Sultan Idris Education University"
+137 "SRM Institute of Science and Technology"
+138 "University of Thessaly"
+139 "Indian Institute of Technology Kharagpur"
+140 "University of International Business and Economics"
+141 "University of Liverpool"
+142 "Asian University for Women"
+143 "Democritus University of Thrace"
+144 "Government of Tamil Nadu"
+145 "Xidian University"
+146 "Federation University"
+147 "Deakin University"
+148 "University of Namur"
+149 "Indian Institute of Management Ahmedabad"
+150 "Singapore University of Technology and Design"
+151 "University of Ottawa"
+152 "University of Ljubljana"
+153 "Shandong University"
+154 "University of Alberta"
+155 "Inserm"
+156 "University of Piraeus"
+157 "Università Campus Bio-Medico"
+158 "Jordan University of Science and Technology"
+159 "Scuola Normale Superiore"
+160 "Institute of Science and Technology Austria"
+161 "Sun Yat-sen University"
+162 "Amirkabir University of Technology"
+163 "Nile Valley University"
+164 "COMSATS University Islamabad"
+165 "Queensland University of Technology"
+166 "University of California, Los Angeles"
+167 "Austrian Research Institute for Artificial Intelligence"
+168 "University of Lucerne"
+169 "Scuola Superiore Sant'Anna"
+170 "Mondragon Unibertsitatea"
+171 "Tianjin University"
+172 "The University of Queensland"
+173 "Universidad de Oviedo"
+174 "Montclair State University"
+175 "Hochschule Bremen"
+176 "Tampere University"
+177 "University of Wuppertal"
+178 "University of the Basque Country"
+179 "IBM (United States)"
+180 "Gdańsk University of Technology"
+181 "University of North Carolina at Greensboro"
+182 "University of Groningen"
+183 "Instituto Politécnico de Leiria"
+184 "University of South Australia"
+185 "University of Novi Sad"
+186 "University of Technology - Iraq"
+187 "Free University of Bozen-Bolzano"
+188 "Forschungszentrum Jülich"
+189 "University of Concepción"
+190 "HES-SO University of Applied Sciences and Arts Western Switzerland"
+191 "SINTEF"
+192 "University of Nicosia"
+193 "Technion – Israel Institute of Technology"
+194 "Khalifa University of Science and Technology"
+195 "Polytechnic University of Turin"
+196 "Chinese University of Hong Kong"
+197 "Universidad Nacional de Educación a Distancia"
+198 "German Cancer Research Center"
+199 "Universidade de São Paulo"
+200 "University of Cologne"
+201 "Abdul Wali Khan University Mardan"
+202 "University of Zagreb"
+203 "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+204 "Georgia State University"
+205 "University of Ibadan"
+206 "University of Strathclyde"
+207 "Ajman University"
+208 "Universidad Rey Juan Carlos"
+209 "King Abdulaziz University"
+210 "Covenant University"
+211 "Ionian University"
+212 "University of Colorado Boulder"
+213 "University of Konstanz"
+214 "JAMK University of Applied Sciences"
+215 "ParisTech"
+216 "Arts et Métiers"
+217 "NOAA Geophysical Fluid Dynamics Laboratory"
+218 "Inha University"
+219 "Research Institute of the Finnish Economy"
+220 "University of the Witwatersrand"
+221 "Zuyd University of Applied Sciences"
+222 "Tallinn University"
+223 "Utrecht University"
+224 "Universität Ulm"
+225 "Wright State University"
+226 "La Trobe University"
+227 "Imec the Netherlands"
+228 "Korea University"
+229 "University of Lagos"
+230 "University of Malta"
+231 "Chinese Academy of Sciences"
+232 "Østfold University College"
+233 "University of Agder"
+234 "Princeton University"
+235 "Bielefeld University"
+236 "University of Washington"
+237 "Université Côte d'Azur"
+238 "Peking University"
+239 "University of St.Gallen"
+240 "Aarhus University"
+241 "College of Charleston"
+242 "University of Wollongong"
+243 "Trinity College Dublin"
+244 "Curtin University"
+245 "University of Siegen"
+246 "Al-Aqsa University"
+247 "Benha University"
+248 "Aristotle University of Thessaloniki"
+249 "Purdue University West Lafayette"
+250 "National Central University"
+251 "Heidelberg University"
+252 "Fondazione Bruno Kessler"
+253 "Kerman University of Medical Sciences"
+254 "Montana State University"
+255 "Autonomous University of Yucatán"
+256 "University of Exeter"
+257 "Universidad de Buenos Aires"
+258 "Robert Koch Institute"
+259 "Bulgarian Academy of Sciences"
+260 "European University Viadrina"
+261 "School of Pedagogical and Technological Education"
+262 "Universidad de Zaragoza"
+263 "National Tsing Hua University"
+264 "University of Würzburg"
+265 "Indian Institute of Information Technology Allahabad"
+266 "Chemnitz University of Technology"
+267 "University of South Florida"
+268 "Dalle Molle Institute for Artificial Intelligence Research"
+269 "University of Anbar"
+270 "Fore School of Management"
+271 "Høyskolen Kristiania"
+272 "Greenslopes Private Hospital"
+273 "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute"
+274 "German Climate Computing Centre"
+275 "Ottawa Hospital"
+276 "Folkwang University of the Arts"
+277 "Fritz Haber Institute of the Max Planck Society"
+278 "Cisco College"
+279 "Shri Maharaja Hari Singh Hospital"
+280 "Aarhus University Hospital"
+281 "Nederlandse Spoorwegen"
+282 "Deutsches Forschungsnetz"
+283 "Agostino Gemelli University Polyclinic"
+284 "Klinikum rechts der Isar"
+285 "Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies"
+286 "Prin. L. N. Welingkar Institute of Management Development and Research"
+287 "Indian Institute of Management Tiruchirappalli"
+288 "Danish Ministry of Defence"
+289 "Kwame Nkrumah University of Science and Technology"
+290 "Karolinska Institutet"
+291 "London South Bank University"
+292 "University College Dublin"
+293 "Sejong University"
+294 "University of Siena"
+295 "Munich School of Philosophy"
+296 "HITEC University"
+297 "Linköping University"
+298 "University Medical Center Utrecht"
+299 "Southern University of Science and Technology"
+300 "INSEAD"
+301 "Polytechnic University of Timişoara"
+302 "Universidad Politécnica de Cartagena"
+303 "China University of Geosciences (Beijing)"
+304 "University of Fiji"
+305 "Karlsruhe Institute of Technology"
+306 "Northumbria University"
+307 "Ghent University"
+308 "University of Florida"
+309 "Obuda University"
+310 "Pandit Deendayal Petroleum University"
+311 "University of Malaya"
+312 "Al-Balqa Applied University"
+313 "Maastricht University"
+314 "University of Jinan"
+315 "Bank of Italy"
+316 "University of Northampton"
+317 "Kyung Hee University"
+318 "Alstom (France)"
+319 "University of Bristol"
+320 "University of California, San Diego"
+321 "Wuhan University"
+322 "Asian Institute of Technology"
+323 "Humboldt-Universität zu Berlin"
+324 "University of Kassel"
+325 "Worcester Polytechnic Institute"
+326 "University of Aleppo"
+327 "Université Paris Nanterre"
+328 "Broad Institute"
+329 "Alpha Technologies (Canada)"
+330 "Software (Germany)"
+331 "Tata Medical Center"
+332 "Düsseldorf University Hospital"
+333 "Laboratoire d'Automatique, de Mécanique et d'Informatique Industrielles et Humaines"
+334 "München Klinik Schwabing"
+335 "Ferghana Polytechnical Institute"
+336 "Polytechnic Institute of Bragança"
+337 "Wesley Research Institute"
+338 "Instituto Andaluz de Ciencias de la Tierra"
+339 "Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la Comunitat Valenciana"
+340 "Laboratoire des signaux et systèmes"
+341 "Menlo School"
+342 "Laboratoire des Sciences de l'Ingénieur, de l'Informatique et de l'Imagerie"
+343 "Cancer Research And Biostatistics"
+344 "Instituto de Microelectrónica de Sevilla"
+345 "Foundation for the Advancement of Social Theory"
+346 "International University of Rabat"
+347 "University of Algiers 3"
+348 "BASF (Germany)"
+349 "Machine Intelligence Research Labs"
+350 "University of Central Lancashire Cyprus"
+351 "University of Design Schwäbisch Gmünd"
+352 "Max Planck Institute for Informatics"
+353 "Max Planck Institute for the Science of Light"
+354 "IPO Porto"
+355 "Center for Research in Molecular Medicine and Chronic Diseases"
+356 "Honda (Germany)"
+357 "Regional Hospital Horsens"
+358 "Indian Institute of Technology Palakkad"
+359 "Thomson Reuters (Canada)"
+360 "Innopolis University"
+361 "Dana-Farber Cancer Institute"
+362 "Instytut Technik Telekomunikacyjnych i Informatycznych (Poland)"
+363 "Université Bourgogne Franche-Comté"
+364 "Supermicro (United States)"
+365 "Instituto de Telecomunicações"
+366 "Istinye University"
+367 "Leibniz Institute for Analytical Sciences - ISAS"
+368 "Arish University"
+369 "Philips (Netherlands)"
+370 "International Energy Research Centre"
+371 "Association of Electronic and Information Technologies"
+372 "IBM Research - Zurich"
+373 "Shendi University"
+374 "Vector Institute"
+375 "Nvidia (United States)"
+376 "Institute of Software"
+377 "The First Affiliated Hospital, Sun Yat-sen University"
+378 "Helmholtz-Institute Ulm"
+379 "Institute of Informatics and Telematics"
+380 "Laboratoire Génie de Production"
+381 "Montpellier Business School"
+382 "Artificial Intelligence Research Institute"
+383 "Center for Cultural Heritage Technology"
+384 "Telefonica Research and Development"
+385 "M.S. Ramaiah Medical College"
+386 "FACE Foundation"
+387 "Tekniker"
+388 "Institute for the Future"
+389 "Helmholtz-Zentrum Hereon"
+390 "Sorbonne University Abu Dhabi"
+391 "Communication University of Zhejiang"
+392 "Excelia Business School"
+393 "AstraZeneca (Sweden)"
+394 "Guangdong Academy of Medical Sciences"
+395 "University of Notre Dame"
+396 "IBM Research - Ireland"
+397 "Institute of Intelligent Systems for Automation"
+398 "Astronomy and Space"
+399 "Zambon (Italy)"
+400 "IU International University of Applied Sciences"
+401 "DELL (United States)"
+402 "ESCP Business School"
+403 "Max Planck Institute of Biochemistry"
+404 "INSEAD"
+405 "Consorzio Interuniversitario Nazionale per l'Informatica"
+406 "GFZ Helmholtz Centre for Geosciences"
+407 "Istituti di Ricovero e Cura a Carattere Scientifico"
+408 "Nutanix (United States)"
+409 "University Hospital Cologne"
+410 "Guangdong Provincial People's Hospital"
+411 "John Snow (United States)"
+412 "National Research Council"
+413 "Staatliche Hochschule für Gestaltung Karlsruhe"
+414 "Institute of Advanced Research in Artificial Intelligence"
+415 "LIP6"
+416 "Institut de Chirurgie Guidée par l'Image"
+417 "A*STAR Graduate Academy"
+418 "Ferrari (Italy)"
+419 "Wellcome Centre for Ethics and Humanities"
+420 "Institute of Electronics and Computer Science"
+421 "Walker (United States)"
+422 "University of Chinese Academy of Sciences"
+423 "Henan Polytechnic University"
+424 "INESC TEC"
+425 "Dublin City University"
+426 "Université Laval"
+427 "Weill Cornell Medicine"
+428 "Hugging Face"
+429 "SINTEF Digital"
+430 "Ottawa Hospital Research Institute"
+431 "Laboratoire d'Economie et de Management de Nantes Atlantique"
+432 "Research Centre in Digitalization and Intelligent Robotics"
+433 "Laboratoire Images, signaux et systèmes intelligents"
+434 "Humans and management in society"
+435 "South Ural State University"
+436 "Imam Ja’afar Al-Sadiq University"
+437 "Kuaishou (China)"
+438 "Berlin Institute for the Foundations of Learning and Data"
+439 "Université Marie et Louis Pasteur"
+440 "Fundação Getulio Vargas"
+441 "Heinrich Heine University Düsseldorf"
+442 "Indian Institute of Management Bangalore"
+443 "Czech Technical University in Prague"
+444 "Mitre (United States)"
+445 "University of Florence"
+446 "Atilim University"
+447 "Polytechnique Montréal"
+448 "Roskilde University"
+449 "Universidad de Burgos"
+450 "Poznań University of Technology"
+451 "University of Kufa"
+452 "United Kingdom Atomic Energy Authority"
+453 "Universidad de Valladolid"
+454 "Tallinn University of Technology"
+455 "Sultan Qaboos University"
+456 "Hamad Medical Corporation"
+457 "Al-Muthanna University"
+458 "Universidad Carlos III de Madrid"
+459 "École Polytechnique Fédérale de Lausanne"
+460 "University of Osijek"
+461 "Universitat de Miguel Hernández d'Elx"
+462 "Northwestern University"
+463 "University of Waikato"
+464 "University of Greenwich"
+465 "University of Macerata"
+466 "Goldsmiths University of London"
+467 "Leibniz University Hannover"
+468 "Arizona State University"
+469 "Oklahoma State University"
+470 "University of Southern California"
+471 "New York University"
+472 "Romanian Academy"
+473 "Indian Institute of Science Bangalore"
+474 "Middlesex County College"
+475 "Concordia University"
+476 "Potsdam Institute for Climate Impact Research"
+477 "California State University, Bakersfield"
+478 "Beijing University of Civil Engineering and Architecture"
+479 "University of Verona"
+480 "Liverpool John Moores University"
+481 "Universidad Autónoma de Madrid"
+482 "University of Hagen"
+483 "Systems Research Institute"
+484 "Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento"
+485 "Universidad Complutense de Madrid"
+486 "De Montfort University"
+487 "Carleton University"
+488 "University of Modena and Reggio Emilia"
+489 "KIIT University"
+490 "Lancaster University"
+491 "National Institute of Technology Tiruchirappalli"
+492 "Istituto di Scienza e Tecnologie dell'Informazione Alessandro Faedo"
+493 "Uppsala University"
+494 "University of Reading"
+495 "University of Parma"
+496 "Zagreb School of Economics and Management"
+497 "Manipal University Jaipur"
+498 "Comenius University Bratislava"
+499 "Central Queensland University"
+500 "Carnegie Mellon University"
+501 "American University of Kuwait"
+502 "Freie Universität Berlin"
+503 "University of Missouri"
+504 "University of Coimbra"
+505 "Henan University of Economic and Law"
+506 "Technische Universität Dresden"
+507 "Institute of Intelligent Industrial Systems and Technologies for Advanced Manufacturing"
+508 "Universidad de Huelva"
+509 "University of Castilla-La Mancha"
+510 "Western University"
+511 "Cardiff University"
+512 "Jagiellonian University"
+513 "University of Birmingham"
+514 "University of Vaasa"
+515 "William Paterson University"
+516 "Clemson University"
+517 "Lawrence Livermore National Laboratory"
+518 "Bahçeşehir University"
+519 "Cedars-Sinai Medical Center"
+520 "Breda University of Applied Sciences"
+521 "RMIT University"
+522 "Eindhoven University of Technology"
+523 "Universidad Nacional de Asunción"
+524 "Polytechnic Institute of Porto"
+525 "Temple University"
+526 "Sungkyunkwan University"
+527 "Newcastle University"
+528 "Yarmouk University"
+529 "Sapienza University of Rome"
+530 "Universidad EAFIT"
+531 "James Cook University"
+532 "Organisation de Coopération et de Développement Economiques"
+533 "Vrije Universiteit Amsterdam"
+534 "Search for Extraterrestrial Intelligence"
+535 "Xi'an Jiaotong University"
+536 "European University Institute"
+537 "Damascus University"
+538 "Real Academia Española"
+539 "Institute on Governance"
+540 "National University of Malaysia"
+541 "Houston Methodist"
+542 "RWTH Aachen University"
+543 "Foundation for Research and Technology Hellas"
+544 "Aalborg University"
+545 "Red Sea University"
+546 "Umeå University"
+547 "University of Sheffield"
+548 "University of Vienna"
+549 "Erasmus University Rotterdam"
+550 "Middle East University"
+551 "Carl von Ossietzky Universität Oldenburg"
+552 "Colorado State University"
+553 "University of North Georgia"
+554 "Leipzig University"
+555 "Bournemouth University"
+556 "Middle Georgia State College"
+557 "Bydgoszcz University of Science and Technology"
+558 "Częstochowa University of Technology"
+559 "Jönköping University"
+560 "Amazon (United States)"
+561 "University of Jyväskylä"
+562 "Universidad Pablo de Olavide"
+563 "University of California, Berkeley"
+564 "University of Salerno"
+565 "Universitat Politècnica de Catalunya"
+566 "Technical University of Denmark"
+567 "Volkswagen Group (Germany)"
+568 "University of Lausanne"
+569 "Birkbeck, University of London"
+570 "Sage Bionetworks"
+571 "Lviv Polytechnic National University"
+572 "Tecnológico de Monterrey"
+573 "University of Edinburgh"
+574 "Mississippi State University"
+575 "Institut national de recherche en sciences et technologies du numérique"
+576 "Aalto University"
+577 "Red Hat (United States)"
+578 "Polish Academy of Sciences"
+579 "University of Arkansas at Fayetteville"
+*Edges
+77 325 1
+77 448 1
+77 469 1
+77 491 1
+77 55 1
+77 14 1
+77 117 1
+77 118 1
+77 134 1
+77 52 1
+77 149 1
+77 53 1
+77 57 1
+77 181 1
+77 187 1
+77 203 1
+77 54 1
+77 204 1
+77 206 1
+77 209 1
+77 212 1
+77 225 1
+77 233 1
+77 241 1
+77 42 1
+77 25 1
+77 262 1
+77 263 1
+77 267 1
+77 270 1
+77 286 1
+77 22 1
+77 67 1
+77 306 1
+77 319 1
+77 12 1
+77 381 1
+77 431 1
+77 434 1
+77 442 1
+77 455 1
+77 464 1
+77 480 1
+77 90 1
+77 91 1
+77 494 1
+77 579 1
+77 96 1
+77 527 1
+77 547 1
+77 555 1
+77 556 1
+77 10 1
+77 1 1
+325 448 1
+325 469 1
+325 491 1
+325 55 1
+325 14 1
+325 117 1
+325 118 1
+325 134 1
+325 52 1
+325 149 1
+325 53 1
+325 57 1
+325 181 1
+325 187 1
+325 203 1
+325 54 1
+325 204 1
+325 206 1
+325 209 1
+325 212 1
+325 225 1
+325 233 1
+325 241 1
+325 42 1
+325 25 1
+325 262 1
+325 263 1
+325 267 1
+325 270 1
+325 286 1
+325 22 1
+325 67 1
+325 306 1
+325 319 1
+325 12 1
+325 381 1
+325 431 1
+325 434 1
+325 442 1
+325 455 1
+325 464 1
+325 480 1
+325 90 1
+325 91 1
+325 494 1
+325 579 1
+325 96 1
+325 527 1
+325 547 1
+325 555 1
+325 556 1
+325 10 1
+325 1 1
+448 469 1
+448 491 1
+448 55 1
+448 14 1
+448 117 1
+448 118 1
+448 134 1
+448 52 1
+448 149 1
+448 53 1
+448 57 1
+448 181 1
+448 187 1
+448 203 1
+448 54 1
+448 204 1
+448 206 1
+448 209 1
+448 212 1
+448 225 1
+448 233 1
+448 241 1
+448 42 1
+448 25 1
+448 262 1
+448 263 1
+448 267 1
+448 270 1
+448 286 1
+448 22 1
+448 67 1
+448 306 1
+448 319 1
+448 12 1
+448 381 1
+448 431 1
+448 434 1
+448 442 1
+448 455 1
+448 464 1
+448 480 1
+448 90 1
+448 91 1
+448 494 1
+448 579 1
+448 96 1
+448 527 1
+448 547 1
+448 555 1
+448 556 1
+448 10 1
+448 1 1
+469 491 1
+469 55 1
+469 14 1
+469 117 1
+469 118 1
+469 134 1
+469 52 1
+469 149 1
+469 53 1
+469 57 1
+469 181 1
+469 187 1
+469 203 1
+469 54 1
+469 204 1
+469 206 1
+469 209 1
+469 212 1
+469 225 1
+469 233 1
+469 241 1
+469 42 1
+469 25 1
+469 262 1
+469 263 1
+469 267 1
+469 270 1
+469 286 1
+469 22 1
+469 67 1
+469 306 1
+469 319 1
+469 12 1
+469 381 1
+469 431 1
+469 434 1
+469 442 1
+469 455 1
+469 464 1
+469 480 1
+469 90 1
+469 91 1
+469 494 1
+469 579 1
+469 96 1
+469 527 1
+469 547 1
+469 555 1
+469 556 1
+469 10 1
+469 1 1
+491 55 1
+491 14 1
+491 117 1
+491 118 1
+491 134 1
+491 52 1
+491 149 1
+491 53 1
+491 57 1
+491 181 1
+491 187 1
+491 203 1
+491 54 1
+491 204 1
+491 206 1
+491 209 1
+491 212 1
+491 225 1
+491 233 1
+491 241 1
+491 42 1
+491 25 1
+491 262 1
+491 263 1
+491 267 1
+491 270 1
+491 286 1
+491 22 1
+491 67 1
+491 306 1
+491 319 1
+491 12 1
+491 381 1
+491 431 1
+491 434 1
+491 442 1
+491 455 1
+491 464 1
+491 480 1
+491 90 1
+491 91 1
+491 494 1
+491 579 1
+491 96 1
+491 527 1
+491 547 1
+491 555 1
+491 556 1
+491 10 1
+491 1 1
+55 14 1
+55 117 1
+55 118 1
+55 134 1
+55 52 1
+55 149 1
+55 53 1
+55 57 1
+55 181 1
+55 187 1
+55 203 1
+55 54 1
+55 204 1
+55 206 1
+55 209 1
+55 212 1
+55 225 1
+55 233 1
+55 241 1
+55 42 1
+55 25 1
+55 262 1
+55 263 1
+55 267 1
+55 270 1
+55 286 1
+55 22 1
+55 67 1
+55 306 1
+55 319 1
+55 12 1
+55 381 1
+55 431 1
+55 434 1
+55 442 1
+55 455 1
+55 464 1
+55 480 1
+55 90 1
+55 91 1
+55 494 1
+55 579 1
+55 96 1
+55 527 1
+55 547 1
+55 555 1
+55 556 1
+55 10 1
+55 1 1
+14 117 1
+14 118 1
+14 134 1
+14 52 1
+14 149 1
+14 53 1
+14 57 1
+14 181 1
+14 187 1
+14 203 1
+14 54 1
+14 204 1
+14 206 1
+14 209 1
+14 212 1
+14 225 1
+14 233 1
+14 241 1
+14 42 1
+14 25 1
+14 262 1
+14 263 1
+14 267 1
+14 270 1
+14 286 1
+14 22 1
+14 67 1
+14 306 1
+14 319 1
+14 12 1
+14 381 1
+14 431 1
+14 434 1
+14 442 1
+14 455 1
+14 464 1
+14 480 1
+14 90 1
+14 91 1
+14 494 1
+14 579 1
+14 96 1
+14 527 1
+14 547 1
+14 555 1
+14 556 1
+14 10 1
+14 1 1
+117 118 1
+117 134 1
+117 52 1
+117 149 1
+117 53 1
+117 57 1
+117 181 1
+117 187 1
+117 203 1
+117 54 1
+117 204 1
+117 206 1
+117 209 1
+117 212 1
+117 225 1
+117 233 1
+117 241 1
+117 42 1
+117 25 1
+117 262 1
+117 263 1
+117 267 1
+117 270 1
+117 286 1
+117 22 1
+117 67 1
+117 306 1
+117 319 1
+117 12 1
+117 381 1
+117 431 1
+117 434 1
+117 442 1
+117 455 1
+117 464 1
+117 480 1
+117 90 1
+117 91 1
+117 494 1
+117 579 1
+117 96 1
+117 527 1
+117 547 1
+117 555 1
+117 556 1
+117 10 1
+117 1 1
+118 134 1
+118 52 1
+118 149 1
+118 53 1
+118 57 1
+118 181 1
+118 187 1
+118 203 1
+118 54 1
+118 204 1
+118 206 1
+118 209 1
+118 212 1
+118 225 1
+118 233 1
+118 241 1
+118 42 1
+118 25 1
+118 262 1
+118 263 1
+118 267 1
+118 270 1
+118 286 1
+118 22 1
+118 67 1
+118 306 1
+118 319 1
+118 12 1
+118 381 1
+118 431 1
+118 434 1
+118 442 1
+118 455 1
+118 464 1
+118 480 1
+118 90 1
+118 91 1
+118 494 1
+118 579 1
+118 96 1
+118 527 1
+118 547 1
+118 555 1
+118 556 1
+118 10 1
+118 1 1
+134 52 1
+134 149 1
+134 53 1
+134 57 1
+134 181 1
+134 187 1
+134 203 1
+134 54 1
+134 204 1
+134 206 1
+134 209 1
+134 212 1
+134 225 1
+134 233 1
+134 241 1
+134 42 1
+134 25 1
+134 262 1
+134 263 1
+134 267 1
+134 270 1
+134 286 1
+134 22 1
+134 67 1
+134 306 1
+134 319 1
+134 12 1
+134 381 1
+134 431 1
+134 434 1
+134 442 1
+134 455 1
+134 464 1
+134 480 1
+134 90 1
+134 91 1
+134 494 1
+134 579 1
+134 96 1
+134 527 1
+134 547 1
+134 555 1
+134 556 1
+134 10 1
+134 1 1
+52 149 1
+52 53 1
+52 57 2
+52 181 1
+52 187 1
+52 203 1
+52 54 1
+52 204 1
+52 206 1
+52 209 1
+52 212 1
+52 225 1
+52 233 1
+52 241 1
+52 42 1
+52 25 2
+52 262 1
+52 263 1
+52 267 1
+52 270 1
+52 286 1
+52 22 1
+52 67 1
+52 306 1
+52 319 1
+52 12 2
+52 381 1
+52 431 1
+52 434 1
+52 442 1
+52 455 1
+52 464 1
+52 480 1
+52 90 1
+52 91 1
+52 494 1
+52 579 1
+52 96 1
+52 527 1
+52 547 1
+52 555 1
+52 556 1
+52 10 1
+52 1 1
+149 53 1
+149 57 1
+149 181 1
+149 187 1
+149 203 1
+149 54 1
+149 204 1
+149 206 1
+149 209 1
+149 212 1
+149 225 1
+149 233 1
+149 241 1
+149 42 1
+149 25 1
+149 262 1
+149 263 1
+149 267 1
+149 270 1
+149 286 1
+149 22 1
+149 67 1
+149 306 1
+149 319 1
+149 12 1
+149 381 1
+149 431 1
+149 434 1
+149 442 1
+149 455 1
+149 464 1
+149 480 1
+149 90 1
+149 91 1
+149 494 1
+149 579 1
+149 96 1
+149 527 1
+149 547 1
+149 555 1
+149 556 1
+149 10 1
+149 1 1
+53 57 1
+53 181 1
+53 187 1
+53 203 1
+53 54 1
+53 204 1
+53 206 1
+53 209 1
+53 212 1
+53 225 1
+53 233 1
+53 241 1
+53 42 1
+53 25 1
+53 262 1
+53 263 1
+53 267 1
+53 270 1
+53 286 1
+53 22 1
+53 67 1
+53 306 1
+53 319 1
+53 12 1
+53 381 1
+53 431 1
+53 434 1
+53 442 1
+53 455 1
+53 464 1
+53 480 1
+53 90 1
+53 91 1
+53 494 1
+53 579 1
+53 96 1
+53 527 1
+53 547 1
+53 555 1
+53 556 1
+53 10 2
+53 1 1
+57 181 1
+57 187 1
+57 203 1
+57 54 1
+57 204 1
+57 206 1
+57 209 1
+57 212 1
+57 225 1
+57 233 1
+57 241 1
+57 42 1
+57 25 2
+57 262 1
+57 263 1
+57 267 1
+57 270 1
+57 286 1
+57 22 1
+57 67 1
+57 306 1
+57 319 1
+57 12 2
+57 381 1
+57 431 1
+57 434 1
+57 442 1
+57 455 1
+57 464 1
+57 480 1
+57 90 1
+57 91 1
+57 494 1
+57 579 1
+57 96 1
+57 527 1
+57 547 1
+57 555 1
+57 556 1
+57 10 1
+57 1 1
+181 187 1
+181 203 1
+181 54 1
+181 204 1
+181 206 1
+181 209 1
+181 212 1
+181 225 1
+181 233 1
+181 241 1
+181 42 1
+181 25 1
+181 262 1
+181 263 1
+181 267 1
+181 270 1
+181 286 1
+181 22 1
+181 67 1
+181 306 1
+181 319 1
+181 12 1
+181 381 1
+181 431 1
+181 434 1
+181 442 1
+181 455 1
+181 464 1
+181 480 1
+181 90 1
+181 91 1
+181 494 1
+181 579 1
+181 96 1
+181 527 1
+181 547 1
+181 555 1
+181 556 1
+181 10 1
+181 1 1
+187 203 1
+187 54 1
+187 204 1
+187 206 1
+187 209 1
+187 212 1
+187 225 1
+187 233 1
+187 241 1
+187 42 1
+187 25 1
+187 262 1
+187 263 1
+187 267 1
+187 270 1
+187 286 1
+187 22 1
+187 67 1
+187 306 1
+187 319 1
+187 12 1
+187 381 1
+187 431 1
+187 434 1
+187 442 1
+187 455 1
+187 464 1
+187 480 1
+187 90 1
+187 91 1
+187 494 1
+187 579 1
+187 96 1
+187 527 1
+187 547 1
+187 555 1
+187 556 1
+187 10 1
+187 1 1
+203 54 1
+203 204 1
+203 206 1
+203 209 1
+203 212 1
+203 225 1
+203 233 1
+203 241 1
+203 42 1
+203 25 1
+203 262 1
+203 263 1
+203 267 1
+203 270 1
+203 286 1
+203 22 1
+203 67 1
+203 306 1
+203 319 1
+203 12 1
+203 381 1
+203 431 1
+203 434 1
+203 442 1
+203 455 1
+203 464 1
+203 480 1
+203 90 1
+203 91 1
+203 494 1
+203 579 1
+203 96 1
+203 527 1
+203 547 1
+203 555 1
+203 556 1
+203 10 1
+203 1 1
+54 204 1
+54 206 1
+54 209 1
+54 212 1
+54 225 1
+54 233 1
+54 241 1
+54 42 1
+54 25 1
+54 262 1
+54 263 1
+54 267 1
+54 270 1
+54 286 1
+54 22 1
+54 67 1
+54 306 1
+54 319 1
+54 12 1
+54 381 1
+54 431 1
+54 434 1
+54 442 1
+54 455 1
+54 464 1
+54 480 1
+54 90 1
+54 91 1
+54 494 1
+54 579 1
+54 96 1
+54 527 1
+54 547 1
+54 555 1
+54 556 1
+54 10 1
+54 1 1
+204 206 1
+204 209 1
+204 212 1
+204 225 1
+204 233 1
+204 241 1
+204 42 1
+204 25 1
+204 262 1
+204 263 1
+204 267 1
+204 270 1
+204 286 1
+204 22 1
+204 67 1
+204 306 1
+204 319 1
+204 12 1
+204 381 1
+204 431 1
+204 434 1
+204 442 1
+204 455 1
+204 464 1
+204 480 1
+204 90 1
+204 91 1
+204 494 1
+204 579 1
+204 96 1
+204 527 1
+204 547 1
+204 555 1
+204 556 1
+204 10 1
+204 1 1
+206 209 1
+206 212 1
+206 225 1
+206 233 1
+206 241 1
+206 42 1
+206 25 1
+206 262 1
+206 263 1
+206 267 1
+206 270 1
+206 286 1
+206 22 1
+206 67 1
+206 306 1
+206 319 1
+206 12 1
+206 381 1
+206 431 1
+206 434 1
+206 442 1
+206 455 1
+206 464 1
+206 480 1
+206 90 1
+206 91 1
+206 494 1
+206 579 1
+206 96 1
+206 527 1
+206 547 1
+206 555 1
+206 556 1
+206 10 1
+206 1 1
+209 212 1
+209 225 1
+209 233 1
+209 241 1
+209 42 1
+209 25 1
+209 262 1
+209 263 1
+209 267 1
+209 270 1
+209 286 1
+209 22 1
+209 67 1
+209 306 1
+209 319 1
+209 12 1
+209 381 1
+209 431 1
+209 434 1
+209 442 1
+209 455 1
+209 464 1
+209 480 1
+209 90 1
+209 91 1
+209 494 1
+209 579 1
+209 96 1
+209 527 1
+209 547 1
+209 555 1
+209 556 1
+209 10 1
+209 1 1
+212 225 1
+212 233 1
+212 241 1
+212 42 1
+212 25 1
+212 262 1
+212 263 1
+212 267 1
+212 270 1
+212 286 1
+212 22 1
+212 67 1
+212 306 1
+212 319 1
+212 12 1
+212 381 1
+212 431 1
+212 434 1
+212 442 1
+212 455 1
+212 464 1
+212 480 1
+212 90 1
+212 91 1
+212 494 1
+212 579 1
+212 96 1
+212 527 1
+212 547 1
+212 555 1
+212 556 1
+212 10 1
+212 1 1
+225 233 1
+225 241 1
+225 42 1
+225 25 1
+225 262 1
+225 263 1
+225 267 1
+225 270 1
+225 286 1
+225 22 1
+225 67 1
+225 306 1
+225 319 1
+225 12 1
+225 381 1
+225 431 1
+225 434 1
+225 442 1
+225 455 1
+225 464 1
+225 480 1
+225 90 1
+225 91 1
+225 494 1
+225 579 1
+225 96 1
+225 527 1
+225 547 1
+225 555 1
+225 556 1
+225 10 1
+225 1 1
+233 241 1
+233 42 1
+233 25 1
+233 262 1
+233 263 1
+233 267 1
+233 270 1
+233 286 1
+233 22 1
+233 67 1
+233 306 1
+233 319 1
+233 12 1
+233 381 1
+233 431 1
+233 434 1
+233 442 1
+233 455 1
+233 464 1
+233 480 1
+233 90 1
+233 91 1
+233 494 1
+233 579 1
+233 96 1
+233 527 1
+233 547 1
+233 555 1
+233 556 1
+233 10 1
+233 1 1
+241 42 1
+241 25 1
+241 262 1
+241 263 1
+241 267 1
+241 270 1
+241 286 1
+241 22 1
+241 67 1
+241 306 1
+241 319 1
+241 12 1
+241 381 1
+241 431 1
+241 434 1
+241 442 1
+241 455 1
+241 464 1
+241 480 1
+241 90 1
+241 91 1
+241 494 1
+241 579 1
+241 96 1
+241 527 1
+241 547 1
+241 555 1
+241 556 1
+241 10 1
+241 1 1
+42 25 1
+42 262 1
+42 263 1
+42 267 1
+42 270 1
+42 286 1
+42 22 1
+42 67 1
+42 306 1
+42 319 1
+42 12 1
+42 381 1
+42 431 1
+42 434 1
+42 442 1
+42 455 1
+42 464 1
+42 480 1
+42 90 1
+42 91 1
+42 494 1
+42 579 1
+42 96 1
+42 527 1
+42 547 1
+42 555 1
+42 556 1
+42 10 1
+42 1 1
+25 262 1
+25 263 1
+25 267 1
+25 270 1
+25 286 1
+25 22 1
+25 67 1
+25 306 1
+25 319 1
+25 12 3
+25 381 1
+25 431 1
+25 434 1
+25 442 1
+25 455 1
+25 464 1
+25 480 1
+25 90 1
+25 91 1
+25 494 1
+25 579 1
+25 96 1
+25 527 1
+25 547 1
+25 555 1
+25 556 1
+25 10 1
+25 1 1
+262 263 1
+262 267 1
+262 270 1
+262 286 1
+262 22 1
+262 67 1
+262 306 1
+262 319 1
+262 12 1
+262 381 1
+262 431 1
+262 434 1
+262 442 1
+262 455 1
+262 464 1
+262 480 1
+262 90 1
+262 91 1
+262 494 1
+262 579 1
+262 96 1
+262 527 1
+262 547 1
+262 555 1
+262 556 1
+262 10 1
+262 1 1
+263 267 1
+263 270 1
+263 286 1
+263 22 1
+263 67 1
+263 306 1
+263 319 1
+263 12 1
+263 381 1
+263 431 1
+263 434 1
+263 442 1
+263 455 1
+263 464 1
+263 480 1
+263 90 1
+263 91 1
+263 494 1
+263 579 1
+263 96 1
+263 527 1
+263 547 1
+263 555 1
+263 556 1
+263 10 1
+263 1 1
+267 270 1
+267 286 1
+267 22 1
+267 67 1
+267 306 1
+267 319 1
+267 12 1
+267 381 1
+267 431 1
+267 434 1
+267 442 1
+267 455 1
+267 464 1
+267 480 1
+267 90 1
+267 91 1
+267 494 1
+267 579 1
+267 96 1
+267 527 1
+267 547 1
+267 555 1
+267 556 1
+267 10 1
+267 1 1
+270 286 1
+270 22 1
+270 67 1
+270 306 1
+270 319 1
+270 12 1
+270 381 1
+270 431 1
+270 434 1
+270 442 1
+270 455 1
+270 464 1
+270 480 1
+270 90 1
+270 91 1
+270 494 1
+270 579 1
+270 96 1
+270 527 1
+270 547 1
+270 555 1
+270 556 1
+270 10 1
+270 1 1
+286 22 1
+286 67 1
+286 306 1
+286 319 1
+286 12 1
+286 381 1
+286 431 1
+286 434 1
+286 442 1
+286 455 1
+286 464 1
+286 480 1
+286 90 1
+286 91 1
+286 494 1
+286 579 1
+286 96 1
+286 527 1
+286 547 1
+286 555 1
+286 556 1
+286 10 1
+286 1 1
+22 67 2
+22 306 1
+22 319 1
+22 12 1
+22 381 1
+22 431 1
+22 434 1
+22 442 1
+22 455 1
+22 464 1
+22 480 1
+22 90 1
+22 91 1
+22 494 1
+22 579 1
+22 96 1
+22 527 1
+22 547 1
+22 555 1
+22 556 1
+22 10 1
+22 1 1
+67 306 1
+67 319 1
+67 12 1
+67 381 1
+67 431 1
+67 434 1
+67 442 1
+67 455 1
+67 464 1
+67 480 1
+67 90 1
+67 91 1
+67 494 1
+67 579 1
+67 96 1
+67 527 1
+67 547 1
+67 555 1
+67 556 1
+67 10 1
+67 1 1
+306 319 1
+306 12 1
+306 381 1
+306 431 1
+306 434 1
+306 442 1
+306 455 1
+306 464 1
+306 480 1
+306 90 1
+306 91 1
+306 494 1
+306 579 1
+306 96 1
+306 527 1
+306 547 1
+306 555 1
+306 556 1
+306 10 1
+306 1 1
+319 12 1
+319 381 1
+319 431 1
+319 434 1
+319 442 1
+319 455 1
+319 464 1
+319 480 1
+319 90 1
+319 91 1
+319 494 1
+319 579 1
+319 96 1
+319 527 1
+319 547 1
+319 555 1
+319 556 1
+319 10 1
+319 1 1
+12 381 1
+12 431 1
+12 434 1
+12 442 1
+12 455 1
+12 464 1
+12 480 1
+12 90 1
+12 91 1
+12 494 1
+12 579 1
+12 96 1
+12 527 1
+12 547 1
+12 555 1
+12 556 1
+12 10 1
+12 1 1
+381 431 1
+381 434 1
+381 442 1
+381 455 1
+381 464 1
+381 480 1
+381 90 1
+381 91 1
+381 494 1
+381 579 1
+381 96 1
+381 527 1
+381 547 1
+381 555 1
+381 556 1
+381 10 1
+381 1 1
+431 434 1
+431 442 1
+431 455 1
+431 464 1
+431 480 1
+431 90 1
+431 91 1
+431 494 1
+431 579 1
+431 96 1
+431 527 1
+431 547 1
+431 555 1
+431 556 1
+431 10 1
+431 1 1
+434 442 1
+434 455 1
+434 464 1
+434 480 1
+434 90 1
+434 91 1
+434 494 1
+434 579 1
+434 96 1
+434 527 1
+434 547 1
+434 555 1
+434 556 1
+434 10 1
+434 1 1
+442 455 1
+442 464 1
+442 480 1
+442 90 1
+442 91 1
+442 494 1
+442 579 1
+442 96 1
+442 527 1
+442 547 1
+442 555 1
+442 556 1
+442 10 1
+442 1 1
+455 464 1
+455 480 1
+455 90 1
+455 91 1
+455 494 1
+455 579 1
+455 96 1
+455 527 1
+455 547 1
+455 555 1
+455 556 1
+455 10 1
+455 1 1
+464 480 1
+464 90 1
+464 91 1
+464 494 1
+464 579 1
+464 96 1
+464 527 1
+464 547 1
+464 555 1
+464 556 1
+464 10 1
+464 1 1
+480 90 1
+480 91 1
+480 494 1
+480 579 1
+480 96 1
+480 527 1
+480 547 1
+480 555 1
+480 556 1
+480 10 1
+480 1 1
+90 91 1
+90 494 1
+90 579 1
+90 96 1
+90 527 1
+90 547 1
+90 555 1
+90 556 1
+90 10 1
+90 1 1
+91 494 1
+91 579 1
+91 96 1
+91 527 1
+91 547 1
+91 555 1
+91 556 1
+91 10 1
+91 1 1
+494 579 1
+494 96 1
+494 527 1
+494 547 1
+494 555 1
+494 556 1
+494 10 1
+494 1 1
+579 96 1
+579 527 1
+579 547 1
+579 555 1
+579 556 1
+579 10 1
+579 1 1
+96 527 1
+96 547 1
+96 555 1
+96 556 1
+96 10 1
+96 1 1
+527 547 1
+527 555 1
+527 556 1
+527 10 1
+527 1 1
+547 555 1
+547 556 1
+547 10 1
+547 1 1
+555 556 1
+555 10 1
+555 1 1
+556 10 1
+556 1 1
+10 1 1
+19 374 1
+19 29 1
+374 29 1
+560 127 1
+560 252 1
+127 252 1
+5 2 2
+75 307 1
+132 112 1
+132 196 1
+132 214 1
+112 196 1
+112 214 1
+196 214 1
+64 321 1
+64 2 1
+321 2 1
+309 103 1
+309 126 1
+309 142 1
+309 7 1
+309 304 1
+309 322 1
+309 487 1
+309 499 1
+309 500 1
+103 126 1
+103 142 1
+103 7 1
+103 304 1
+103 322 1
+103 487 1
+103 499 1
+103 500 1
+126 142 1
+126 7 1
+126 304 1
+126 322 1
+126 487 1
+126 499 1
+126 500 1
+142 7 1
+142 304 1
+142 322 1
+142 487 1
+142 499 1
+142 500 1
+7 304 1
+7 322 1
+7 487 1
+7 499 1
+7 500 1
+304 322 1
+304 487 1
+304 499 1
+304 500 1
+322 487 1
+322 499 1
+322 500 1
+487 499 1
+487 500 1
+499 500 1
+443 29 1
+297 470 1
+297 73 1
+470 73 1
+4 112 1
+4 205 1
+4 44 1
+4 42 1
+112 205 1
+112 44 1
+112 42 1
+205 44 1
+205 42 1
+44 42 1
+477 346 1
+477 392 1
+346 392 1
+488 495 1
+488 418 1
+495 418 1
+497 1 1
+154 194 1
+154 366 1
+154 475 1
+154 483 1
+154 578 1
+194 366 1
+194 475 1
+194 483 1
+194 578 1
+366 475 1
+366 483 1
+366 578 1
+475 483 1
+475 578 1
+483 578 1
+6 342 1
+6 92 1
+342 92 1
+102 281 1
+102 69 1
+102 318 1
+281 69 1
+281 318 1
+69 318 1
+510 115 1
+510 48 1
+510 139 1
+510 152 1
+510 171 1
+510 49 1
+510 231 1
+510 7 1
+510 22 1
+510 65 1
+510 67 1
+510 349 1
+510 360 1
+510 74 1
+510 401 1
+510 421 1
+510 80 1
+510 463 1
+510 511 1
+510 513 1
+510 521 1
+510 30 1
+115 48 1
+115 139 1
+115 152 1
+115 171 1
+115 49 1
+115 231 1
+115 7 1
+115 22 1
+115 65 1
+115 67 1
+115 349 1
+115 360 1
+115 74 1
+115 401 1
+115 421 1
+115 80 1
+115 463 1
+115 511 1
+115 513 1
+115 521 1
+115 30 1
+48 139 1
+48 152 1
+48 171 1
+48 49 1
+48 231 1
+48 7 1
+48 22 1
+48 65 1
+48 67 1
+48 349 1
+48 360 1
+48 74 1
+48 401 1
+48 421 1
+48 80 1
+48 463 1
+48 511 1
+48 513 1
+48 521 1
+48 30 1
+139 152 1
+139 171 1
+139 49 1
+139 231 1
+139 7 1
+139 22 1
+139 65 1
+139 67 1
+139 349 1
+139 360 1
+139 74 1
+139 401 1
+139 421 1
+139 80 1
+139 463 1
+139 511 1
+139 513 1
+139 521 1
+139 30 1
+152 171 1
+152 49 1
+152 231 1
+152 7 1
+152 22 1
+152 65 1
+152 67 1
+152 349 1
+152 360 1
+152 74 1
+152 401 1
+152 421 1
+152 80 1
+152 463 1
+152 511 1
+152 513 1
+152 521 1
+152 30 1
+171 49 1
+171 231 1
+171 7 1
+171 22 1
+171 65 1
+171 67 1
+171 349 1
+171 360 1
+171 74 1
+171 401 1
+171 421 1
+171 80 1
+171 463 1
+171 511 1
+171 513 1
+171 521 1
+171 30 1
+49 231 1
+49 7 1
+49 22 1
+49 65 1
+49 67 1
+49 349 1
+49 360 1
+49 74 1
+49 401 1
+49 421 1
+49 80 1
+49 463 1
+49 511 1
+49 513 1
+49 521 1
+49 30 1
+231 7 1
+231 22 1
+231 65 1
+231 67 1
+231 349 1
+231 360 1
+231 74 1
+231 401 1
+231 421 1
+231 80 1
+231 463 1
+231 511 1
+231 513 1
+231 521 1
+231 30 1
+7 22 1
+7 65 1
+7 67 1
+7 349 1
+7 360 1
+7 74 1
+7 401 1
+7 421 1
+7 80 2
+7 463 1
+7 511 1
+7 513 1
+7 521 1
+7 30 1
+22 65 1
+22 349 1
+22 360 1
+22 74 1
+22 401 1
+22 421 1
+22 80 1
+22 463 1
+22 511 1
+22 513 1
+22 521 1
+22 30 1
+65 67 1
+65 349 1
+65 360 1
+65 74 1
+65 401 1
+65 421 1
+65 80 1
+65 463 1
+65 511 1
+65 513 1
+65 521 1
+65 30 1
+67 349 1
+67 360 1
+67 74 1
+67 401 1
+67 421 1
+67 80 1
+67 463 1
+67 511 1
+67 513 1
+67 521 1
+67 30 1
+349 360 1
+349 74 1
+349 401 1
+349 421 1
+349 80 1
+349 463 1
+349 511 1
+349 513 1
+349 521 1
+349 30 1
+360 74 1
+360 401 1
+360 421 1
+360 80 1
+360 463 1
+360 511 1
+360 513 1
+360 521 1
+360 30 1
+74 401 1
+74 421 1
+74 80 1
+74 463 1
+74 511 1
+74 513 1
+74 521 1
+74 30 1
+401 421 1
+401 80 1
+401 463 1
+401 511 1
+401 513 1
+401 521 1
+401 30 1
+421 80 1
+421 463 1
+421 511 1
+421 513 1
+421 521 1
+421 30 1
+80 463 1
+80 511 1
+80 513 1
+80 521 1
+80 30 1
+463 511 1
+463 513 1
+463 521 1
+463 30 1
+511 513 1
+511 521 1
+511 30 1
+513 521 1
+513 30 1
+521 30 1
+8 97 2
+8 229 1
+8 232 1
+97 229 1
+97 232 1
+229 232 1
+95 461 1
+95 105 1
+95 4 1
+95 173 1
+95 178 1
+95 189 1
+95 37 1
+95 197 1
+95 208 1
+95 50 1
+95 51 1
+95 7 1
+95 257 1
+95 259 1
+95 302 1
+95 509 1
+95 99 1
+95 31 1
+95 553 1
+95 33 1
+461 105 1
+461 4 1
+461 173 1
+461 178 1
+461 189 1
+461 37 1
+461 197 1
+461 208 1
+461 50 1
+461 51 1
+461 7 1
+461 257 1
+461 259 1
+461 302 1
+461 509 1
+461 99 1
+461 31 1
+461 553 1
+461 33 1
+105 4 1
+105 173 1
+105 178 1
+105 189 1
+105 37 1
+105 197 1
+105 208 1
+105 50 1
+105 51 1
+105 7 1
+105 257 1
+105 259 1
+105 302 1
+105 509 1
+105 99 1
+105 31 1
+105 553 1
+105 33 1
+4 173 1
+4 178 1
+4 189 1
+4 37 2
+4 197 1
+4 208 1
+4 50 1
+4 51 1
+4 7 1
+4 257 1
+4 259 1
+4 302 1
+4 509 1
+4 99 1
+4 31 1
+4 553 1
+4 33 1
+173 178 1
+173 189 1
+173 37 1
+173 197 1
+173 208 1
+173 50 1
+173 51 1
+173 7 1
+173 257 1
+173 259 1
+173 302 1
+173 509 1
+173 99 1
+173 31 1
+173 553 1
+173 33 1
+178 189 1
+178 37 1
+178 197 1
+178 208 1
+178 50 1
+178 51 1
+178 7 1
+178 257 1
+178 259 1
+178 302 1
+178 509 1
+178 99 1
+178 31 1
+178 553 1
+178 33 1
+189 37 1
+189 197 1
+189 208 1
+189 50 1
+189 51 1
+189 7 1
+189 257 1
+189 259 1
+189 302 1
+189 509 1
+189 99 1
+189 31 1
+189 553 1
+189 33 1
+37 197 1
+37 208 1
+37 50 1
+37 51 1
+37 7 1
+37 257 1
+37 259 1
+37 302 1
+37 509 1
+37 99 1
+37 31 1
+37 553 1
+37 33 1
+197 208 1
+197 50 1
+197 51 1
+197 7 1
+197 257 1
+197 259 1
+197 302 1
+197 509 1
+197 99 1
+197 31 1
+197 553 1
+197 33 1
+208 50 1
+208 51 1
+208 7 1
+208 257 1
+208 259 1
+208 302 1
+208 509 1
+208 99 1
+208 31 1
+208 553 1
+208 33 1
+50 51 1
+50 7 1
+50 257 1
+50 259 1
+50 302 1
+50 509 1
+50 99 1
+50 31 1
+50 553 1
+50 33 1
+51 7 1
+51 257 1
+51 259 1
+51 302 1
+51 509 1
+51 99 1
+51 31 1
+51 553 1
+51 33 1
+7 257 1
+7 259 1
+7 302 1
+7 509 1
+7 99 1
+7 31 1
+7 553 1
+7 33 1
+257 259 1
+257 302 1
+257 509 1
+257 99 1
+257 31 1
+257 553 1
+257 33 1
+259 302 1
+259 509 1
+259 99 1
+259 31 1
+259 553 1
+259 33 1
+302 509 1
+302 99 1
+302 31 1
+302 553 1
+302 33 1
+509 99 1
+509 31 1
+509 553 1
+509 33 1
+99 31 1
+99 553 1
+99 33 1
+31 553 1
+31 33 1
+553 33 1
+435 38 1
+435 125 1
+435 220 1
+435 449 1
+435 450 1
+38 125 1
+38 220 1
+38 449 1
+38 450 1
+125 220 1
+125 449 1
+125 450 1
+220 449 1
+220 450 1
+449 450 1
+539 223 1
+539 298 1
+539 343 1
+223 298 1
+223 343 1
+298 343 1
+102 424 1
+284 334 1
+284 5 1
+284 2 1
+334 5 1
+334 2 1
+202 335 1
+202 391 1
+202 496 1
+335 391 1
+335 496 1
+391 496 1
+11 34 2
+11 100 2
+34 100 2
+101 46 1
+32 554 1
+145 4 1
+145 49 1
+145 235 1
+145 490 1
+4 49 1
+4 235 1
+4 490 1
+49 235 1
+49 490 1
+235 490 1
+289 549 1
+454 193 1
+454 310 1
+193 310 1
+245 250 1
+245 276 1
+245 348 1
+245 91 1
+250 276 1
+250 348 1
+250 91 1
+276 348 1
+276 91 1
+348 91 1
+324 239 1
+217 234 1
+217 236 1
+217 256 1
+217 274 1
+217 389 1
+217 406 1
+217 476 1
+217 502 1
+217 552 1
+234 236 1
+234 256 1
+234 274 1
+234 389 1
+234 406 1
+234 476 1
+234 502 1
+234 552 1
+236 256 1
+236 274 1
+236 389 1
+236 406 1
+236 476 1
+236 502 1
+236 552 1
+256 274 1
+256 389 1
+256 406 1
+256 476 1
+256 502 1
+256 552 1
+274 389 1
+274 406 1
+274 476 1
+274 502 1
+274 552 1
+389 406 1
+389 476 1
+389 502 1
+389 552 1
+406 476 1
+406 502 1
+406 552 1
+476 502 1
+476 552 1
+502 552 1
+27 32 2
+72 399 1
+72 10 1
+399 10 1
+564 137 1
+462 230 1
+462 573 1
+230 573 1
+147 244 1
+147 35 1
+147 78 1
+244 35 1
+244 78 1
+35 78 1
+248 543 1
+21 376 1
+21 106 1
+376 106 1
+15 11 1
+15 34 2
+15 100 1
+15 30 1
+11 30 1
+34 30 1
+100 30 1
+538 37 1
+538 338 1
+37 338 1
+8 129 1
+8 207 1
+8 246 1
+8 269 1
+8 65 1
+8 312 1
+8 71 1
+8 390 1
+8 451 1
+8 457 1
+8 501 1
+8 528 1
+8 540 1
+8 550 1
+129 207 1
+129 246 1
+129 269 1
+129 65 1
+129 312 1
+129 71 1
+129 390 1
+129 451 1
+129 457 1
+129 501 1
+129 528 1
+129 540 1
+129 550 1
+207 246 1
+207 269 1
+207 65 1
+207 312 1
+207 71 1
+207 390 1
+207 451 1
+207 457 1
+207 501 1
+207 528 1
+207 540 1
+207 550 1
+246 269 1
+246 65 1
+246 312 1
+246 71 1
+246 390 1
+246 451 1
+246 457 1
+246 501 1
+246 528 1
+246 540 1
+246 550 1
+269 65 1
+269 312 1
+269 71 1
+269 390 1
+269 451 1
+269 457 1
+269 501 1
+269 528 1
+269 540 1
+269 550 1
+65 312 1
+65 71 1
+65 390 1
+65 451 1
+65 457 1
+65 501 1
+65 528 1
+65 540 1
+65 550 1
+312 71 1
+312 390 1
+312 451 1
+312 457 1
+312 501 1
+312 528 1
+312 540 1
+312 550 1
+71 390 1
+71 451 1
+71 457 1
+71 501 1
+71 528 1
+71 540 1
+71 550 1
+390 451 1
+390 457 1
+390 501 1
+390 528 1
+390 540 1
+390 550 1
+451 457 1
+451 501 1
+451 528 1
+451 540 1
+451 550 1
+457 501 1
+457 528 1
+457 540 1
+457 550 1
+501 528 1
+501 540 1
+501 550 1
+528 540 1
+528 550 1
+540 550 1
+73 372 1
+24 3 3
+66 383 1
+168 47 1
+168 101 1
+168 291 1
+168 295 1
+168 72 1
+168 403 1
+168 419 1
+168 23 1
+168 96 1
+168 98 1
+168 534 1
+168 563 1
+168 569 1
+47 101 1
+47 291 1
+47 295 1
+47 72 1
+47 403 1
+47 419 1
+47 23 1
+47 96 1
+47 98 1
+47 534 1
+47 563 1
+47 569 1
+101 291 1
+101 295 1
+101 72 1
+101 403 1
+101 419 1
+101 23 1
+101 96 1
+101 98 1
+101 534 1
+101 563 1
+101 569 1
+291 295 1
+291 72 1
+291 403 1
+291 419 1
+291 23 1
+291 96 1
+291 98 1
+291 534 1
+291 563 1
+291 569 1
+295 72 1
+295 403 1
+295 419 1
+295 23 1
+295 96 1
+295 98 1
+295 534 1
+295 563 1
+295 569 1
+72 403 1
+72 419 1
+72 23 1
+72 96 1
+72 98 1
+72 534 1
+72 563 1
+72 569 1
+403 419 1
+403 23 1
+403 96 1
+403 98 1
+403 534 1
+403 563 1
+403 569 1
+419 23 1
+419 96 1
+419 98 1
+419 534 1
+419 563 1
+419 569 1
+23 96 1
+23 98 1
+23 534 1
+23 563 1
+23 569 1
+96 98 1
+96 534 1
+96 563 1
+96 569 1
+98 534 1
+98 563 1
+98 569 1
+534 563 1
+534 569 1
+563 569 1
+40 16 1
+150 63 1
+150 228 1
+150 273 1
+150 352 1
+150 438 1
+150 35 1
+63 228 1
+63 273 1
+63 352 1
+63 438 1
+63 35 1
+228 273 1
+228 352 1
+228 438 1
+228 35 1
+273 352 1
+273 438 1
+273 35 1
+352 438 1
+352 35 1
+438 35 1
+175 177 1
+175 64 1
+177 64 1
+104 255 1
+104 282 1
+104 68 1
+255 282 1
+255 68 1
+282 68 1
+103 58 1
+103 121 1
+103 155 1
+103 184 1
+103 45 1
+103 242 1
+103 23 1
+58 121 1
+58 155 1
+58 184 1
+58 45 1
+58 242 1
+58 23 1
+121 155 1
+121 184 1
+121 45 1
+121 242 1
+121 23 1
+155 184 1
+155 45 1
+155 242 1
+155 23 1
+184 45 1
+184 242 1
+184 23 1
+45 242 1
+45 23 1
+242 23 1
+493 39 1
+493 290 1
+39 290 1
+133 11 1
+133 200 1
+133 378 1
+133 466 1
+133 478 1
+11 200 1
+11 378 1
+11 466 1
+11 478 1
+200 378 1
+200 466 1
+200 478 1
+378 466 1
+378 478 1
+466 478 1
+17 249 1
+17 565 1
+249 565 1
+122 130 1
+122 135 1
+122 52 1
+122 144 1
+122 57 1
+122 18 1
+122 25 1
+122 287 1
+122 12 1
+130 135 1
+130 52 1
+130 144 1
+130 57 1
+130 18 1
+130 25 1
+130 287 1
+130 12 1
+135 52 1
+135 144 1
+135 57 1
+135 18 1
+135 25 1
+135 287 1
+135 12 1
+52 144 1
+52 18 1
+52 287 1
+144 57 1
+144 18 1
+144 25 1
+144 287 1
+144 12 1
+57 18 1
+57 287 1
+18 25 2
+18 287 1
+18 12 2
+25 287 1
+287 12 1
+54 40 1
+54 237 1
+40 237 1
+120 227 1
+85 275 1
+85 430 1
+275 430 1
+300 41 1
+300 404 1
+41 404 1
+520 221 1
+520 254 1
+520 317 1
+221 254 1
+221 317 1
+254 317 1
+119 86 1
+119 268 1
+119 56 1
+119 13 1
+119 1 1
+86 268 1
+86 56 1
+86 13 1
+86 1 1
+268 56 1
+268 13 1
+268 1 1
+56 13 1
+56 1 1
+13 1 1
+548 26 1
+548 544 1
+26 544 1
+104 88 1
+104 437 1
+104 113 1
+88 437 1
+88 113 1
+437 113 1
+226 344 1
+226 94 1
+226 531 1
+344 94 1
+344 531 1
+94 531 1
+467 131 1
+467 79 1
+131 79 1
+328 479 1
+328 519 1
+328 20 1
+328 85 1
+328 16 1
+328 28 1
+479 519 1
+479 20 1
+479 85 1
+479 16 1
+479 28 1
+519 20 1
+519 85 1
+519 16 1
+519 28 1
+20 85 1
+20 16 1
+20 28 2
+85 16 1
+85 28 1
+16 28 1
+219 561 1
+379 412 1
+170 387 1
+162 261 1
+162 311 1
+162 33 1
+261 311 1
+261 33 1
+311 33 1
+128 508 1
+128 94 1
+508 94 1
+316 350 1
+316 486 1
+316 3 1
+316 36 1
+350 486 1
+350 3 1
+350 36 1
+486 3 1
+486 36 1
+3 36 2
+339 459 1
+87 89 1
+18 271 1
+18 525 1
+18 576 1
+25 271 1
+25 525 1
+25 576 1
+271 12 1
+271 525 1
+271 576 1
+12 525 1
+12 576 1
+525 576 1
+518 24 1
+518 3 1
+518 36 1
+24 36 1
+47 505 1
+47 1 1
+505 1 1
+140 182 1
+140 18 1
+140 422 1
+182 18 1
+182 422 1
+18 422 1
+9 159 1
+151 301 1
+151 472 1
+301 472 1
+303 93 1
+70 515 1
+70 76 1
+70 474 1
+515 76 1
+515 474 1
+76 474 1
+69 98 1
+59 409 1
+63 388 1
+63 31 1
+63 572 1
+388 31 1
+388 572 1
+31 572 1
+83 24 1
+83 3 1
+340 433 1
+8 84 1
+8 210 1
+8 446 1
+84 210 1
+84 97 1
+84 446 1
+210 97 1
+210 446 1
+97 446 1
+395 20 1
+395 161 1
+395 61 1
+395 367 1
+395 377 1
+395 394 1
+395 410 1
+20 161 1
+20 61 1
+20 367 1
+20 377 1
+20 394 1
+20 410 1
+161 61 1
+161 367 1
+161 377 1
+161 394 1
+161 410 1
+61 367 1
+61 377 1
+61 394 1
+61 410 1
+367 377 1
+367 394 1
+367 410 1
+377 394 1
+377 410 1
+394 410 1
+70 517 1
+70 55 1
+70 15 1
+70 570 1
+70 577 1
+70 179 1
+70 86 1
+70 20 1
+70 198 1
+70 19 1
+70 34 1
+70 60 1
+70 251 1
+70 7 1
+70 278 1
+70 41 1
+70 283 1
+70 331 1
+70 341 1
+70 345 1
+70 361 1
+70 364 1
+70 375 1
+70 386 1
+70 407 1
+70 408 1
+70 411 1
+70 416 1
+70 417 1
+70 427 1
+70 428 1
+70 80 1
+70 26 1
+70 92 1
+70 28 1
+70 111 1
+517 55 1
+517 15 1
+517 570 1
+517 577 1
+517 179 1
+517 86 1
+517 20 1
+517 198 1
+517 19 1
+517 34 1
+517 60 1
+517 251 1
+517 7 1
+517 278 1
+517 41 1
+517 283 1
+517 331 1
+517 341 1
+517 345 1
+517 361 1
+517 364 1
+517 375 1
+517 386 1
+517 407 1
+517 408 1
+517 411 1
+517 416 1
+517 417 1
+517 427 1
+517 428 1
+517 80 1
+517 26 1
+517 92 1
+517 28 1
+517 111 1
+55 15 1
+55 570 1
+55 577 1
+55 179 1
+55 86 1
+55 20 1
+55 198 1
+55 19 1
+55 34 1
+55 60 1
+55 251 1
+55 7 1
+55 278 1
+55 41 1
+55 283 1
+55 331 1
+55 341 1
+55 345 1
+55 361 1
+55 364 1
+55 375 1
+55 386 1
+55 407 1
+55 408 1
+55 411 1
+55 416 1
+55 417 1
+55 427 1
+55 428 1
+55 80 1
+55 26 1
+55 92 1
+55 28 1
+55 111 1
+15 570 1
+15 577 1
+15 179 1
+15 86 1
+15 20 1
+15 198 1
+15 19 1
+15 60 1
+15 251 1
+15 7 1
+15 278 1
+15 41 1
+15 283 1
+15 331 1
+15 341 1
+15 345 1
+15 361 1
+15 364 1
+15 375 1
+15 386 1
+15 407 1
+15 408 1
+15 411 1
+15 416 1
+15 417 1
+15 427 1
+15 428 1
+15 80 1
+15 26 1
+15 92 1
+15 28 1
+15 111 1
+570 577 1
+570 179 1
+570 86 1
+570 20 1
+570 198 1
+570 19 1
+570 34 1
+570 60 1
+570 251 1
+570 7 1
+570 278 1
+570 41 1
+570 283 1
+570 331 1
+570 341 1
+570 345 1
+570 361 1
+570 364 1
+570 375 1
+570 386 1
+570 407 1
+570 408 1
+570 411 1
+570 416 1
+570 417 1
+570 427 1
+570 428 1
+570 80 1
+570 26 1
+570 92 1
+570 28 1
+570 111 1
+577 179 1
+577 86 1
+577 20 1
+577 198 1
+577 19 1
+577 34 1
+577 60 1
+577 251 1
+577 7 1
+577 278 1
+577 41 1
+577 283 1
+577 331 1
+577 341 1
+577 345 1
+577 361 1
+577 364 1
+577 375 1
+577 386 1
+577 407 1
+577 408 1
+577 411 1
+577 416 1
+577 417 1
+577 427 1
+577 428 1
+577 80 1
+577 26 1
+577 92 1
+577 28 1
+577 111 1
+179 86 1
+179 20 1
+179 198 1
+179 19 1
+179 34 1
+179 60 1
+179 251 1
+179 7 1
+179 278 1
+179 41 1
+179 283 1
+179 331 1
+179 341 1
+179 345 1
+179 361 1
+179 364 1
+179 375 1
+179 386 1
+179 407 1
+179 408 1
+179 411 1
+179 416 1
+179 417 1
+179 427 1
+179 428 1
+179 80 1
+179 26 1
+179 92 1
+179 28 1
+179 111 1
+86 20 1
+86 198 1
+86 19 1
+86 34 1
+86 60 1
+86 251 1
+86 7 1
+86 278 1
+86 41 1
+86 283 1
+86 331 1
+86 341 1
+86 345 1
+86 361 1
+86 364 1
+86 375 1
+86 386 1
+86 407 1
+86 408 1
+86 411 1
+86 416 1
+86 417 1
+86 427 1
+86 428 1
+86 80 1
+86 26 1
+86 92 1
+86 28 1
+86 111 1
+20 198 1
+20 19 1
+20 34 1
+20 60 1
+20 251 1
+20 7 1
+20 278 1
+20 41 1
+20 283 1
+20 331 1
+20 341 1
+20 345 1
+20 361 1
+20 364 1
+20 375 1
+20 386 1
+20 407 1
+20 408 1
+20 411 1
+20 416 1
+20 417 1
+20 427 1
+20 428 1
+20 80 1
+20 26 1
+20 92 1
+20 111 1
+198 19 1
+198 34 1
+198 60 1
+198 251 1
+198 7 1
+198 278 1
+198 41 1
+198 283 1
+198 331 1
+198 341 1
+198 345 1
+198 361 1
+198 364 1
+198 375 1
+198 386 1
+198 407 1
+198 408 1
+198 411 1
+198 416 1
+198 417 1
+198 427 1
+198 428 1
+198 80 1
+198 26 1
+198 92 1
+198 28 1
+198 111 1
+19 34 1
+19 60 1
+19 251 1
+19 7 1
+19 278 1
+19 41 1
+19 283 1
+19 331 1
+19 341 1
+19 345 1
+19 361 1
+19 364 1
+19 375 1
+19 386 1
+19 407 1
+19 408 1
+19 411 1
+19 416 1
+19 417 1
+19 427 1
+19 428 1
+19 80 1
+19 26 1
+19 92 1
+19 28 2
+19 111 1
+34 60 1
+34 251 1
+34 7 1
+34 278 1
+34 41 1
+34 283 1
+34 331 1
+34 341 1
+34 345 1
+34 361 1
+34 364 1
+34 375 1
+34 386 1
+34 407 1
+34 408 1
+34 411 1
+34 416 1
+34 417 1
+34 427 1
+34 428 1
+34 80 1
+34 26 1
+34 92 1
+34 28 1
+34 111 1
+60 251 1
+60 7 1
+60 278 1
+60 41 1
+60 283 1
+60 331 1
+60 341 1
+60 345 1
+60 361 1
+60 364 1
+60 375 1
+60 386 1
+60 407 1
+60 408 1
+60 411 1
+60 416 1
+60 417 1
+60 427 1
+60 428 1
+60 80 1
+60 26 1
+60 92 1
+60 28 1
+60 111 1
+251 7 1
+251 278 1
+251 41 1
+251 283 1
+251 331 1
+251 341 1
+251 345 1
+251 361 1
+251 364 1
+251 375 1
+251 386 1
+251 407 1
+251 408 1
+251 411 1
+251 416 1
+251 417 1
+251 427 1
+251 428 1
+251 80 1
+251 26 1
+251 92 1
+251 28 1
+251 111 1
+7 278 1
+7 41 1
+7 283 1
+7 331 1
+7 341 1
+7 345 1
+7 361 1
+7 364 1
+7 375 1
+7 386 1
+7 407 1
+7 408 1
+7 411 1
+7 416 1
+7 417 1
+7 427 1
+7 428 1
+7 26 1
+7 92 1
+7 28 1
+7 111 1
+278 41 1
+278 283 1
+278 331 1
+278 341 1
+278 345 1
+278 361 1
+278 364 1
+278 375 1
+278 386 1
+278 407 1
+278 408 1
+278 411 1
+278 416 1
+278 417 1
+278 427 1
+278 428 1
+278 80 1
+278 26 1
+278 92 1
+278 28 1
+278 111 1
+41 283 1
+41 331 1
+41 341 1
+41 345 1
+41 361 1
+41 364 1
+41 375 1
+41 386 1
+41 407 1
+41 408 1
+41 411 1
+41 416 1
+41 417 1
+41 427 1
+41 428 1
+41 80 1
+41 26 1
+41 92 1
+41 28 1
+41 111 1
+283 331 1
+283 341 1
+283 345 1
+283 361 1
+283 364 1
+283 375 1
+283 386 1
+283 407 1
+283 408 1
+283 411 1
+283 416 1
+283 417 1
+283 427 1
+283 428 1
+283 80 1
+283 26 1
+283 92 1
+283 28 1
+283 111 1
+331 341 1
+331 345 1
+331 361 1
+331 364 1
+331 375 1
+331 386 1
+331 407 1
+331 408 1
+331 411 1
+331 416 1
+331 417 1
+331 427 1
+331 428 1
+331 80 1
+331 26 1
+331 92 1
+331 28 1
+331 111 1
+341 345 1
+341 361 1
+341 364 1
+341 375 1
+341 386 1
+341 407 1
+341 408 1
+341 411 1
+341 416 1
+341 417 1
+341 427 1
+341 428 1
+341 80 1
+341 26 1
+341 92 1
+341 28 1
+341 111 1
+345 361 1
+345 364 1
+345 375 1
+345 386 1
+345 407 1
+345 408 1
+345 411 1
+345 416 1
+345 417 1
+345 427 1
+345 428 1
+345 80 1
+345 26 1
+345 92 1
+345 28 1
+345 111 1
+361 364 1
+361 375 1
+361 386 1
+361 407 1
+361 408 1
+361 411 1
+361 416 1
+361 417 1
+361 427 1
+361 428 1
+361 80 1
+361 26 1
+361 92 1
+361 28 1
+361 111 1
+364 375 1
+364 386 1
+364 407 1
+364 408 1
+364 411 1
+364 416 1
+364 417 1
+364 427 1
+364 428 1
+364 80 1
+364 26 1
+364 92 1
+364 28 1
+364 111 1
+375 386 1
+375 407 1
+375 408 1
+375 411 1
+375 416 1
+375 417 1
+375 427 1
+375 428 1
+375 80 1
+375 26 1
+375 92 1
+375 28 1
+375 111 1
+386 407 1
+386 408 1
+386 411 1
+386 416 1
+386 417 1
+386 427 1
+386 428 1
+386 80 1
+386 26 1
+386 92 1
+386 28 1
+386 111 1
+407 408 1
+407 411 1
+407 416 1
+407 417 1
+407 427 1
+407 428 1
+407 80 1
+407 26 1
+407 92 1
+407 28 1
+407 111 1
+408 411 1
+408 416 1
+408 417 1
+408 427 1
+408 428 1
+408 80 1
+408 26 1
+408 92 1
+408 28 1
+408 111 1
+411 416 1
+411 417 1
+411 427 1
+411 428 1
+411 80 1
+411 26 1
+411 92 1
+411 28 1
+411 111 1
+416 417 1
+416 427 1
+416 428 1
+416 80 1
+416 26 1
+416 92 1
+416 28 1
+416 111 1
+417 427 1
+417 428 1
+417 80 1
+417 26 1
+417 92 1
+417 28 1
+417 111 1
+427 428 1
+427 80 1
+427 26 1
+427 92 1
+427 28 1
+427 111 1
+428 80 1
+428 26 1
+428 92 1
+428 28 1
+428 111 1
+80 26 1
+80 92 1
+80 28 1
+80 111 1
+26 92 1
+26 28 1
+26 111 1
+92 28 1
+92 111 1
+28 111 1
+218 51 1
+218 247 1
+218 293 1
+218 355 1
+218 526 1
+51 247 1
+51 293 1
+51 355 1
+51 526 1
+247 293 1
+247 355 1
+247 526 1
+293 355 1
+293 526 1
+355 526 1
+484 253 1
+484 574 1
+253 574 1
+124 5 1
+213 238 1
+213 277 1
+238 277 1
+326 551 1
+326 123 1
+326 158 1
+326 163 1
+326 224 1
+326 279 1
+326 347 1
+326 368 1
+326 373 1
+326 456 1
+326 537 1
+326 545 1
+551 123 1
+551 158 1
+551 163 1
+551 224 1
+551 279 1
+551 347 1
+551 368 1
+551 373 1
+551 456 1
+551 537 1
+551 545 1
+123 158 1
+123 163 1
+123 224 1
+123 279 1
+123 347 1
+123 368 1
+123 373 1
+123 456 1
+123 537 1
+123 545 1
+158 163 1
+158 224 1
+158 279 1
+158 347 1
+158 368 1
+158 373 1
+158 456 1
+158 537 1
+158 545 1
+163 224 1
+163 279 1
+163 347 1
+163 368 1
+163 373 1
+163 456 1
+163 537 1
+163 545 1
+224 279 1
+224 347 1
+224 368 1
+224 373 1
+224 456 1
+224 537 1
+224 545 1
+279 347 1
+279 368 1
+279 373 1
+279 456 1
+279 537 1
+279 545 1
+347 368 1
+347 373 1
+347 456 1
+347 537 1
+347 545 1
+368 373 1
+368 456 1
+368 537 1
+368 545 1
+373 456 1
+373 537 1
+373 545 1
+456 537 1
+456 545 1
+537 545 1
+498 571 1
+481 31 1
+482 557 1
+482 362 1
+482 90 1
+557 362 1
+557 90 1
+362 90 1
+105 190 1
+105 354 1
+105 396 1
+105 23 1
+105 504 1
+105 536 1
+105 13 1
+105 568 1
+105 114 1
+190 354 1
+190 396 1
+190 23 1
+190 504 1
+190 536 1
+190 13 1
+190 568 1
+190 114 1
+354 396 1
+354 23 1
+354 504 1
+354 536 1
+354 13 1
+354 568 1
+354 114 1
+396 23 1
+396 504 1
+396 536 1
+396 13 1
+396 568 1
+396 114 1
+23 504 1
+23 536 1
+23 13 1
+23 568 1
+23 114 1
+504 536 1
+504 13 1
+504 568 1
+504 114 1
+536 13 1
+536 568 1
+536 114 1
+13 568 1
+13 114 1
+568 114 1
+191 44 1
+191 46 1
+191 429 1
+191 514 1
+191 530 1
+191 559 1
+44 46 1
+44 429 1
+44 514 1
+44 530 1
+44 559 1
+46 429 1
+46 514 1
+46 530 1
+46 559 1
+429 514 1
+429 530 1
+429 559 1
+514 530 1
+514 559 1
+530 559 1
+14 174 1
+14 327 1
+174 327 1
+157 169 1
+157 66 1
+157 529 1
+169 66 1
+169 529 1
+66 529 1
+243 22 1
+58 192 1
+58 60 1
+58 468 1
+192 60 1
+192 468 1
+60 468 1
+107 5 1
+258 323 1
+53 113 1
+10 113 1
+166 167 1
+166 183 1
+166 19 1
+166 320 1
+166 329 1
+166 353 1
+166 365 1
+166 414 1
+166 28 1
+166 30 1
+167 183 1
+167 19 1
+167 320 1
+167 329 1
+167 353 1
+167 365 1
+167 414 1
+167 28 1
+167 30 1
+183 19 1
+183 320 1
+183 329 1
+183 353 1
+183 365 1
+183 414 1
+183 28 1
+183 30 1
+19 320 1
+19 329 1
+19 353 1
+19 365 1
+19 414 1
+19 30 1
+320 329 1
+320 353 1
+320 365 1
+320 414 1
+320 28 1
+320 30 1
+329 353 1
+329 365 1
+329 414 1
+329 28 1
+329 30 1
+353 365 1
+353 414 1
+353 28 1
+353 30 1
+365 414 1
+365 28 1
+365 30 1
+414 28 1
+414 30 1
+28 30 1
+541 82 1
+506 13 1
+506 111 1
+13 111 1
+397 507 1
+397 108 1
+507 108 1
+332 441 1
+332 36 1
+441 36 1
+27 546 1
+32 546 1
+6 45 1
+6 71 1
+6 415 1
+45 71 1
+45 415 1
+71 415 1
+240 280 1
+240 357 1
+280 357 1
+138 143 1
+138 74 1
+143 74 1
+215 216 1
+215 333 1
+215 380 1
+215 447 1
+216 333 1
+216 380 1
+216 447 1
+333 380 1
+333 447 1
+380 447 1
+512 6 1
+512 575 1
+512 141 1
+512 61 1
+512 12 1
+512 359 1
+512 444 1
+6 575 1
+6 141 1
+6 61 1
+6 12 1
+6 359 1
+6 444 1
+575 141 1
+575 61 1
+575 12 1
+575 359 1
+575 444 1
+141 61 1
+141 12 1
+141 359 1
+141 444 1
+61 12 1
+61 359 1
+61 444 1
+12 359 1
+12 444 1
+359 444 1
+14 426 1
+17 524 1
+185 413 1
+523 562 1
+48 160 1
+48 26 1
+160 26 1
+265 88 1
+265 425 1
+265 452 1
+88 425 1
+88 452 1
+425 452 1
+453 382 1
+453 384 1
+382 384 1
+4 308 1
+37 308 1
+11 4 1
+11 164 1
+11 62 1
+11 296 1
+11 489 1
+4 164 1
+4 62 1
+4 296 1
+4 489 1
+164 62 1
+164 296 1
+164 489 1
+62 296 1
+62 489 1
+296 489 1
+336 432 1
+336 33 1
+432 33 1
+15 567 1
+522 110 1
+405 81 1
+294 445 1
+38 153 1
+38 83 1
+38 314 1
+38 358 1
+38 473 1
+153 83 1
+153 314 1
+153 358 1
+153 473 1
+83 314 1
+83 358 1
+83 473 1
+314 358 1
+314 473 1
+358 473 1
+68 106 1
+9 492 1
+313 385 1
+21 264 1
+21 110 1
+264 110 1
+136 165 1
+136 172 1
+136 186 1
+136 50 1
+136 272 1
+136 337 1
+136 398 1
+136 436 1
+136 79 1
+136 503 1
+136 516 1
+165 172 1
+165 186 1
+165 50 1
+165 272 1
+165 337 1
+165 398 1
+165 436 1
+165 79 1
+165 503 1
+165 516 1
+172 186 1
+172 50 1
+172 272 1
+172 337 1
+172 398 1
+172 436 1
+172 79 1
+172 503 1
+172 516 1
+186 50 1
+186 272 1
+186 337 1
+186 398 1
+186 436 1
+186 79 1
+186 503 1
+186 516 1
+50 272 1
+50 337 1
+50 398 1
+50 436 1
+50 79 1
+50 503 1
+50 516 1
+272 337 1
+272 398 1
+272 436 1
+272 79 1
+272 503 1
+272 516 1
+337 398 1
+337 436 1
+337 79 1
+337 503 1
+337 516 1
+398 436 1
+398 79 1
+398 503 1
+398 516 1
+436 79 1
+436 503 1
+436 516 1
+79 503 1
+79 516 1
+503 516 1
+78 566 1
+6 176 1
+6 285 1
+6 363 1
+6 439 1
+176 285 1
+176 363 1
+176 439 1
+285 363 1
+285 439 1
+363 439 1
+195 199 1
+195 440 1
+199 440 1
+43 356 1
+371 5 1
+371 535 1
+5 535 1
+146 201 1
+146 423 1
+146 82 1
+201 423 1
+201 82 1
+423 82 1
+77 116 1
+77 222 1
+116 222 1
+292 458 1
+292 89 1
+458 89 1
+288 299 1
+288 471 1
+299 471 1
+109 211 1
