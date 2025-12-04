@@ -1,0 +1,556 @@
+
+FOLDER: c:\Users\pc\data-analytics-project-1
+  Subfolders:
+   - .git
+   - data
+   - __pycache__
+  Files:
+   - .gitignore
+   - basic_analysis.py
+   - build_authors.py
+   - build_institutions.py
+   - build_networks.py
+   - config.py
+   - convert_to_pajek.py
+   - core_part1_label_works.py
+   - data_collection.py
+   - data_processing.py
+   - descriptive_part1_years.py
+   - descriptive_part2_oa.py
+   - descriptive_part3_sources.py
+   - descriptive_part4_concepts.py
+   - descriptive_part5_collaboration.py
+   - descriptive_part6_countries.py
+   - project_tree.txt
+   - requirements.txt
+   - Strict_dataset_creator.py
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git
+  Subfolders:
+   - hooks
+   - info
+   - logs
+   - objects
+   - refs
+  Files:
+   - COMMIT_EDITMSG
+   - config
+   - description
+   - FETCH_HEAD
+   - HEAD
+   - index
+   - ORIG_HEAD
+   - packed-refs
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\hooks
+  Files:
+   - applypatch-msg.sample
+   - commit-msg.sample
+   - fsmonitor-watchman.sample
+   - post-update.sample
+   - pre-applypatch.sample
+   - pre-commit.sample
+   - pre-merge-commit.sample
+   - pre-push.sample
+   - pre-rebase.sample
+   - pre-receive.sample
+   - prepare-commit-msg.sample
+   - push-to-checkout.sample
+   - sendemail-validate.sample
+   - update.sample
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\info
+  Files:
+   - exclude
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\logs
+  Subfolders:
+   - refs
+  Files:
+   - HEAD
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\logs\refs
+  Subfolders:
+   - heads
+   - remotes
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\logs\refs\heads
+  Files:
+   - main
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\logs\refs\remotes
+  Subfolders:
+   - origin
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\logs\refs\remotes\origin
+  Files:
+   - HEAD
+   - main
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects
+  Subfolders:
+   - 02
+   - 07
+   - 09
+   - 0b
+   - 0d
+   - 0e
+   - 0f
+   - 10
+   - 1c
+   - 1f
+   - 24
+   - 26
+   - 2a
+   - 31
+   - 35
+   - 36
+   - 39
+   - 3f
+   - 43
+   - 46
+   - 49
+   - 58
+   - 62
+   - 63
+   - 64
+   - 65
+   - 68
+   - 6e
+   - 74
+   - 76
+   - 77
+   - 7c
+   - 84
+   - 86
+   - 88
+   - 8a
+   - 8b
+   - 8c
+   - 90
+   - 92
+   - 95
+   - 96
+   - 9c
+   - a1
+   - a6
+   - aa
+   - ab
+   - af
+   - b3
+   - b7
+   - bb
+   - bc
+   - c0
+   - c1
+   - c7
+   - ca
+   - cc
+   - cd
+   - d1
+   - d2
+   - db
+   - e1
+   - e6
+   - e8
+   - f1
+   - f3
+   - f5
+   - f7
+   - fb
+   - ff
+   - info
+   - pack
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\02
+  Files:
+   - 29c8c065b65a9dc7d82d34701f72382dc0f189
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\07
+  Files:
+   - 018390a7a8c6a37fb9aa665c6f3c52771d4f72
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\09
+  Files:
+   - 0a678b5e7e6cbf1341382e6e93d0733b00b992
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\0b
+  Files:
+   - d2c3daf3aa13958745803693f568a499b332fc
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\0d
+  Files:
+   - 4908dadb940853ad0fb8f68cfcbd42824bb237
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\0e
+  Files:
+   - b4605ec385783da82d341dea532ceb24533cf6
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\0f
+  Files:
+   - 86a8d277ae0583f7f9addca20c1d0688810be0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\10
+  Files:
+   - 3f29df1f4a5c38a3c307c006ec291567e94188
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\1c
+  Files:
+   - 2b8c84b457bbc23f3b3e339472a6bc08f98965
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\1f
+  Files:
+   - 1bedfcd611002c053c2de4a4af57c57909a826
+   - 5d7b8a1de16dcf1b8add8cb229ceb316826b97
+   - 959c26051dc1f7bb792f10f863c764eeae4dd0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\24
+  Files:
+   - 71d9e987fe972c5564b422ffb8bebb9350b0fd
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\26
+  Files:
+   - c8c8209a2c0dfb3c89149fa39d19fd404e530b
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\2a
+  Files:
+   - f859f87340a2be635b1805b0894ad240443f2a
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\31
+  Files:
+   - f69a486c0120adf84e9c4047d0c69399e1b1d8
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\35
+  Files:
+   - dce151efc1ec733f4387b973a2b052fb8ad74c
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\36
+  Files:
+   - 54904e311a6de3e251e398daa1b9c52ed876df
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\39
+  Files:
+   - db8baaef0dc1ffaf9ed622b5cce9e9903d92a2
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\3f
+  Files:
+   - cd8abbb7df3078633d715f5d515285637666c2
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\43
+  Files:
+   - 648d55cf0fbfe60003c9cb6244890c80c50db4
+   - f5ddf4649779748de089a17a01140eaa809ee9
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\46
+  Files:
+   - 59ddfc589842ade48a76fb8885668278f47d02
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\49
+  Files:
+   - af13be71a433105c23f7cb8fa2b1d61733849e
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\58
+  Files:
+   - 34ce3c4e0912da291b2d6307944dd1791ac3b5
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\62
+  Files:
+   - 3afcbe9144a836e384f6a2829f8d6b6703d212
+   - 5640db3e5b4893974cff12687445c8e477f492
+   - b6a0ddba5abd972071d928851679aea0cc594b
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\63
+  Files:
+   - 3a13e73d8631981bed556337e681e81ae691c9
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\64
+  Files:
+   - 6ea1bdef21ba0bf4230802d803f55f6e041ea9
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\65
+  Files:
+   - efcd49348f4f0735262e2557060d4cdbf80052
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\68
+  Files:
+   - 47693f955a6d6a3448a1b55dc250f8f9081c8d
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\6e
+  Files:
+   - ca05bb3ea2cc9b4e3a053571b6154591f96993
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\74
+  Files:
+   - 8526a54eba8611e8c8f46947b86b5958e74a0e
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\76
+  Files:
+   - 2c42c06ab77a4e41c417d51d5c49bc10522849
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\77
+  Files:
+   - 1092b3c30f26a642ce65476e3d5b6fab304a37
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\7c
+  Files:
+   - 4b2849cf3973eba0edbfbbffae53ab2339afb1
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\84
+  Files:
+   - 41457bdf5ae2b863a1939dff44737f968588e8
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\86
+  Files:
+   - 109105d079751ccdb1346652b8dc596e89262c
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\88
+  Files:
+   - bd38865f3e2b8296a28e50b51dfb7a63055c64
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\8a
+  Files:
+   - 2314315bdff82143a43a1edd857fcf0315f99f
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\8b
+  Files:
+   - 721592715f5da0b87a35a4e7f75b1fc9367be0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\8c
+  Files:
+   - e1a1dfef00eb76e1a9077d3f9ad5525e892485
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\90
+  Files:
+   - 1266ca90b7e04e40232c0194dae0dd845df4ae
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\92
+  Files:
+   - fb2f6ae679e8146e2327436ae4c5dd17c2626d
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\95
+  Files:
+   - 5e0e31b55684518b14340deeb5665edad8b0b0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\96
+  Files:
+   - f9935a903433a8cf4e6180537f67b9199d6b01
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\9c
+  Files:
+   - 27465d613fdda95de2beaf9214a291b6fe449f
+   - a6eac36ea49a08ced63d924d63a1f29ec50436
+   - be542ab5c91f2bb108493d11c6cefc84f0be40
+   - dcd5b37434726125129b93212968621edc4c31
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\a1
+  Files:
+   - 28bb25aff03260131f903f317efc8556672ef0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\a6
+  Files:
+   - 06215323a084a38b1dedbc7284c06022e36043
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\aa
+  Files:
+   - fc22ae4fe26baca4ba27d58c2074e7550f7e6d
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\ab
+  Files:
+   - d5c5a55526f9854af6c9e9482565f4f149308c
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\af
+  Files:
+   - 36fb9ac92efdc987102c71af31e8f86be857cb
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\b3
+  Files:
+   - f8762ce74a986847cdbf771e7d22fd6ac41f81
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\b7
+  Files:
+   - b94c2077138b37a380d939f84085288a96e8a4
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\bb
+  Files:
+   - d7aecf3633c3e2cc17fc5c819126425a37aa0b
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\bc
+  Files:
+   - ae67a9efa7ee0617af5932106d379d45d911e5
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\c0
+  Files:
+   - f801ef2c767dec5fa486a37d4c30db7da58dbb
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\c1
+  Files:
+   - cf0cb7a0a1160314563c5a4749ffb956b1dfa4
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\c7
+  Files:
+   - a6960440d4db8d40385e04324753333fc977c3
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\ca
+  Files:
+   - 793a0d48268b5df71163a3bd2b1a6d039d9fed
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\cc
+  Files:
+   - 07a5b919012f3a0836e75dcdc3355a22052024
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\cd
+  Files:
+   - 7eff51558db39ff68ce2bb0a31bcc5b2a17a02
+   - e8b70cc63e16f91ba95605bccbb8c3e920d924
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\d1
+  Files:
+   - 7f8143af800b982128fba6e564f546151b5a78
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\d2
+  Files:
+   - 319491f2001115270a5365067a0672083ac157
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\db
+  Files:
+   - facee509982a4472b0e44311a37da5c463ab0d
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\e1
+  Files:
+   - a08f93a148a2db290b589e89fa08249e2240d9
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\e6
+  Files:
+   - 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\e8
+  Files:
+   - 525e3dbccd9fd1ef10c145190870196bf7dc41
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\f1
+  Files:
+   - f73408bf13428790cb27491a491f7b8086b28f
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\f3
+  Files:
+   - 012f48e53e2ac63d7a348b97aa6e13d8c640af
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\f5
+  Files:
+   - 5108b7ad0f601776bf2217a01998b6a139117e
+   - f03a89e3df3b9b96c878c6194e488d1bdc81b0
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\f7
+  Files:
+   - d9737503faddf3df51ec66eb93565320c42e80
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\fb
+  Files:
+   - ccee1a28c573e3a08b748d8ec1ad2196e043cd
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\ff
+  Files:
+   - ce0f6c36ff0db380860724ff427bc924bbf389
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\info
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\objects\pack
+  Files:
+   - pack-10fcc38e6b3b302ef0dac8795ea7f6641ed729a9.idx
+   - pack-10fcc38e6b3b302ef0dac8795ea7f6641ed729a9.pack
+   - pack-10fcc38e6b3b302ef0dac8795ea7f6641ed729a9.rev
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\refs
+  Subfolders:
+   - heads
+   - remotes
+   - tags
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\refs\heads
+  Files:
+   - main
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\refs\remotes
+  Subfolders:
+   - origin
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\refs\remotes\origin
+  Files:
+   - HEAD
+   - main
+
+FOLDER: c:\Users\pc\data-analytics-project-1\.git\refs\tags
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data
+  Subfolders:
+   - external
+   - processed
+   - raw
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data\external
+  Subfolders:
+   - SCImago
+   - Scopus Source
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data\external\SCImago
+  Files:
+   - scimagojr 2020  Subject Category - Artificial Intelligence_Eastern Europe.csv
+   - scimagojr 2020  Subject Category - Artificial Intelligence_Western Europe.csv
+   - scimagojr 2021  Subject Category - Artificial Intelligence_Eastern Europe.csv
+   - scimagojr 2021  Subject Category - Artificial Intelligence_Western Europe.csv
+   - scimagojr 2022  Subject Category - Artificial Intelligence_Eastern Europe.csv
+   - scimagojr 2022  Subject Category - Artificial Intelligence_Western Europe.csv
+   - scimagojr 2023  Subject Category - Artificial Intelligence_Eastern Europe.csv
+   - scimagojr 2023  Subject Category - Artificial Intelligence_Western Europe.csv
+   - scimagojr 2024  Subject Category - Artificial Intelligence_Eastern Europe.csv
+   - scimagojr 2024  Subject Category - Artificial Intelligence_Western Europe.csv
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data\external\Scopus Source
+  Files:
+   - scopus_sources.csv
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data\processed
+  Files:
+   - authors.net
+   - authors_map.png
+   - authors_strict.csv
+   - authors_strict.json
+   - collaboration_metrics.csv
+   - collaboration_metrics.png
+   - concepts.net
+   - concepts_map.png
+   - dataset_all_enhanced.csv
+   - dataset_all_enhanced.json
+   - dataset_strict_qQ3.csv
+   - dataset_strict_qQ3.json
+   - edges_coauthorship_authors.csv
+   - edges_coauthorship_authors.json
+   - edges_collaboration_institutions.csv
+   - edges_collaboration_institutions.json
+   - edges_cooccurrence_concepts.csv
+   - edges_cooccurrence_concepts.json
+   - institutions.net
+   - institutions_by_country.csv
+   - institutions_by_country.png
+   - institutions_map.png
+   - institutions_strict.csv
+   - institutions_strict.json
+   - open_access_counts.csv
+   - open_access_share.png
+   - publications_per_year.csv
+   - publications_per_year.png
+   - top_concepts.csv
+   - top_concepts.png
+   - top_sources.csv
+   - top_sources.png
+   - works_all.csv
+   - works_all.json
+
+FOLDER: c:\Users\pc\data-analytics-project-1\data\raw
+  Files:
+   - eu_works_on_AI_IN_Education_between_2020_and_2025_N_2416.json
+   - eu_works_on_AI_IN_Education_between_2020_and_2025_N_2417.json
+
+FOLDER: c:\Users\pc\data-analytics-project-1\__pycache__
+  Files:
+   - config.cpython-310.pyc

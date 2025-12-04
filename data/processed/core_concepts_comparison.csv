@@ -1,0 +1,1155 @@
+core_status,concept,count
+core,Computer science,161
+core,Artificial intelligence,146
+core,Machine learning,99
+core,Deep learning,58
+core,Artificial neural network,55
+core,Mathematics,52
+core,Engineering,42
+core,Data science,42
+noncore,Computer science,34
+core,Political science,33
+core,Economics,33
+core,Law,32
+core,Philosophy,30
+core,Biology,30
+noncore,Artificial intelligence,28
+core,Convolutional neural network,28
+core,Computer security,27
+core,Explainable Artificial Intelligence (XAI),27
+core,Pure mathematics,24
+noncore,Psychology,24
+core,Field (mathematics),23
+core,Pattern recognition (psychology),22
+core,Knowledge management,21
+core,Business,21
+core,Physics,19
+core,Data mining,19
+core,Artificial Intelligence in Healthcare and Education,19
+noncore,Political science,19
+core,Mathematical analysis,18
+noncore,Law,18
+core,Epistemology,17
+core,Operating system,17
+core,Medicine,16
+core,Psychology,16
+core,Programming language,15
+core,Anomaly Detection Techniques and Applications,15
+noncore,Philosophy,14
+core,Sociology,14
+noncore,Ethics and Social Impacts of AI,14
+noncore,Sociology,13
+core,Ethics and Social Impacts of AI,13
+core,Domain (mathematical analysis),13
+core,World Wide Web,13
+noncore,Epistemology,13
+core,Machine Learning in Healthcare,13
+noncore,Neuroscience,12
+noncore,Mathematics education,12
+core,Paleontology,12
+noncore,Engineering,12
+core,Adversarial Robustness in Machine Learning,12
+core,Key (lock),11
+core,Geography,11
+core,Management,11
+core,Linguistics,11
+core,Art,11
+core,Process (computing),11
+core,Quantum mechanics,11
+noncore,Data science,10
+core,Pathology,10
+noncore,Artificial Intelligence in Healthcare and Education,10
+core,Finance,10
+core,Economic growth,10
+core,Risk analysis (engineering),9
+noncore,Mathematics,9
+core,Natural language processing,9
+core,Biochemistry,9
+core,Algorithm,9
+core,Geodesy,9
+core,Chemistry,9
+noncore,Online Learning and Analytics,9
+core,Benchmark (surveying),9
+noncore,Knowledge management,9
+core,Management science,9
+core,Reinforcement learning,9
+core,Task (project management),9
+noncore,Biology,9
+core,Electrical engineering,9
+core,Deep neural networks,9
+core,COVID-19 diagnosis using AI,8
+core,Big data,8
+noncore,Machine learning,8
+core,Marketing,8
+core,Topic Modeling,8
+core,Generative grammar,8
+core,Stock Market Forecasting Methods,8
+core,Statistics,8
+core,Visual arts,8
+core,Robot,7
+core,Industrial Vision Systems and Defect Detection,7
+core,Ecology,7
+noncore,Pedagogy,7
+core,Gene,7
+core,Context (archaeology),7
+core,Variety (cybernetics),7
+core,Software engineering,7
+core,Machine Learning and Data Classification,7
+core,Control (management),7
+core,Blockchain Technology Applications and Security,7
+noncore,Politics,7
+core,Mechanical engineering,7
+noncore,Cognitive science,6
+noncore,Literacy,6
+core,Health care,6
+core,Transparency (behavior),6
+core,Support vector machine,6
+core,Computational Science and Engineering,6
+core,Fault Detection and Control Systems,6
+core,Neural dynamics and brain function,6
+noncore,Perception,6
+core,Optics,6
+noncore,Engineering ethics,6
+core,Theoretical computer science,6
+core,Social science,6
+core,Robustness (evolution),6
+core,Computer vision,6
+core,The Internet,6
+noncore,Business,6
+core,Politics,6
+core,Interpretability,6
+core,Big Data and Business Intelligence,6
+noncore,Operating system,6
+core,Digital Transformation in Industry,6
+core,Recurrent neural network,6
+noncore,Social psychology,5
+noncore,Paleontology,5
+core,Advanced Memory and Neural Computing,5
+core,Advanced Neural Network Applications,5
+core,Neuroscience,5
+core,Geology,5
+core,Graph,5
+noncore,Process (computing),5
+noncore,Context (archaeology),5
+core,Human–computer interaction,5
+core,Network Security and Intrusion Detection,5
+core,MEDLINE,5
+core,Image (mathematics),5
+core,Imbalanced Data Classification Techniques,5
+core,Coronavirus disease 2019 (COVID-19),5
+noncore,Educational Games and Gamification,5
+core,Process management,5
+core,Engineering ethics,5
+core,Set (abstract data type),5
+core,Econometrics,5
+core,Disease,5
+core,Time Series Analysis and Forecasting,5
+noncore,AI in Service Interactions,5
+core,Social psychology,5
+noncore,Explainable Artificial Intelligence (XAI),5
+noncore,Physics,5
+core,AI in Service Interactions,5
+core,Infectious disease (medical specialty),5
+core,AI in cancer detection,5
+core,Public relations,4
+core,Leverage (statistics),4
+core,Industrial engineering,4
+noncore,Transparency (behavior),4
+noncore,Psychology of Moral and Emotional Judgment,4
+core,Accountability,4
+core,Quality (philosophy),4
+core,Empirical research,4
+noncore,Quality (philosophy),4
+core,Evolutionary biology,4
+core,Archaeology,4
+core,Software deployment,4
+core,Reinforcement Learning in Robotics,4
+noncore,Management science,4
+core,Neural Networks and Applications,4
+noncore,Human–computer interaction,4
+core,Classifier (UML),4
+noncore,"Neuroethics, Human Enhancement, Biomedical Innovations",4
+core,Intrusion detection system,4
+noncore,Programming language,4
+noncore,Quantum mechanics,4
+noncore,Social science,4
+core,Materials science,4
+core,Internal medicine,4
+core,Market Dynamics and Volatility,4
+core,Natural Language Processing Techniques,4
+noncore,Generative grammar,4
+core,Embedded system,4
+core,Domain Adaptation and Few-Shot Learning,4
+core,Representation (politics),4
+core,Advanced Graph Neural Networks,4
+core,Architecture,4
+core,Database,4
+core,"FinTech, Crowdfunding, Digital Finance",4
+core,Voltage,4
+core,Financial Distress and Bankruptcy Prediction,4
+core,Feature (linguistics),4
+noncore,Ecology,4
+core,Privacy-Preserving Technologies in Data,4
+core,Currency Recognition and Detection,4
+core,Time series,4
+core,Systems engineering,4
+core,Focus (optics),4
+core,Perception,4
+core,Pandemic,4
+core,Perspective (graphical),4
+noncore,Art,4
+core,Advanced Malware Detection Techniques,3
+core,Macroeconomics,3
+noncore,Cognition,3
+core,Operations research,3
+core,Geometry,3
+core,Categorization,3
+core,Neural Networks and Reservoir Computing,3
+noncore,Curriculum,3
+core,Composite material,3
+core,Cancer,3
+noncore,Computer security,3
+noncore,Mathematical analysis,3
+core,Automation,3
+core,Anomaly detection,3
+core,Musical,3
+noncore,Perspective (graphical),3
+noncore,Geometry,3
+noncore,Performing arts,3
+core,Black box,3
+core,Algorithmic trading,3
+core,Online Learning and Analytics,3
+core,Human intelligence,3
+noncore,Literature,3
+core,Hyperparameter,3
+noncore,Scale (ratio),3
+core,Benchmarking,3
+noncore,Implementation,3
+core,Manufacturing engineering,3
+noncore,Empirical research,3
+core,Generative Adversarial Networks and Image Synthesis,3
+core,Pedagogy,3
+core,Computational Drug Discovery Methods,3
+core,Production (economics),3
+core,Function (biology),3
+core,Forecasting Techniques and Applications,3
+core,Systematic review,3
+core,Telecommunications,3
+core,Feature extraction,3
+core,Technology Adoption and User Behaviour,3
+core,Value (mathematics),3
+core,Data Stream Mining Techniques,3
+core,Transfer of learning,3
+core,Transformer,3
+core,Unsupervised learning,3
+noncore,Adversarial Robustness in Machine Learning,3
+noncore,Adaptation (eye),3
+core,Control engineering,3
+core,Convolution (computer science),3
+core,Supply chain,3
+core,Strengths and weaknesses,3
+core,Artificial Intelligence in Healthcare,3
+core,Relevance (law),3
+core,Digital Economy and Work Transformation,3
+core,Decision tree,3
+core,Supply Chain Resilience and Risk Management,3
+core,Radiomics and Machine Learning in Medical Imaging,3
+core,Domain knowledge,3
+core,Smart Grid Security and Resilience,3
+noncore,Variety (cybernetics),3
+noncore,Teaching and Learning Programming,3
+core,Series (stratigraphy),3
+core,Sentiment Analysis and Opinion Mining,3
+core,Accounting,3
+core,Inference,3
+core,Literature,3
+core,Legal aspects of computing,3
+noncore,Test (biology),2
+core,"Law, AI, and Intellectual Property",2
+core,Machine Learning in Materials Science,2
+core,Machine Learning and Algorithms,2
+noncore,Variance (accounting),2
+noncore,Value (mathematics),2
+core,AI and HR Technologies,2
+noncore,Pure mathematics,2
+noncore,Public relations,2
+core,Industry 4.0,2
+core,Adaptability,2
+core,Actuator,2
+core,Active learning (machine learning),2
+noncore,World Wide Web,2
+core,Scale (ratio),2
+core,Scalability,2
+core,Simple (philosophy),2
+core,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),2
+core,Sentiment analysis,2
+core,Embedding,2
+core,Random forest,2
+core,Quantum network,2
+core,Smart grid,2
+core,Smart Agriculture and AI,2
+core,Economy,2
+core,Energy consumption,2
+core,Energy Load and Power Forecasting,2
+core,Seismology,2
+core,Segmentation,2
+core,Scopus,2
+core,Scientific Computing and Data Management,2
+core,Robotics,2
+core,Robot Manipulation and Learning,2
+core,Air Quality Monitoring and Forecasting,2
+core,Agronomy,2
+core,Adversarial system,2
+noncore,Qualitative research,2
+core,"Artificial intelligence, situated approach",2
+core,Artificial Intelligence in Law,2
+core,Arithmetic,2
+core,Resource (disambiguation),2
+core,Engineering management,2
+core,Engineering Diagnostics and Reliability,2
+core,Fault (geology),2
+core,Quantum computer,2
+core,Quantum Information and Cryptography,2
+core,Quantum Computing Algorithms and Architecture,2
+core,Quantum,2
+core,Public sector,2
+core,Software,2
+core,Stock market,2
+core,Statistical and Computational Modeling,2
+core,Spiking neural network,2
+core,Speech recognition,2
+core,Speech Recognition and Synthesis,2
+core,Digital Media Forensic Detection,2
+core,Digital Marketing and Social Media,2
+core,Electronic engineering,2
+core,Supply Chain and Inventory Management,2
+core,Supervised learning,2
+core,Developmental psychology,2
+core,Demography,2
+core,Software Engineering Research,2
+core,Food safety,2
+core,Financial services,2
+core,Financial Markets and Investment Strategies,2
+core,Feature selection,2
+core,Feature learning,2
+core,Feature engineering,2
+core,Fault detection and isolation,2
+core,Theology,2
+core,Terminology,2
+core,Technical analysis,2
+core,Traffic Prediction and Management Techniques,2
+core,Trading strategy,2
+core,Symbolic artificial intelligence,2
+core,Data Quality and Management,2
+core,Cryptocurrency,2
+core,Trustworthiness,2
+core,Credit risk,2
+core,Credit Risk and Financial Regulations,2
+core,Popularity,2
+core,Pixel,2
+core,Preprocessor,2
+core,Population,2
+core,Psychology of Moral and Emotional Judgment,2
+core,Protein Structure and Dynamics,2
+core,Philosophy of science,2
+core,Philosophy of law,2
+core,Convergence (economics),2
+noncore,Accounting,2
+noncore,Accountability,2
+core,Waste management,2
+noncore,Archaeology,2
+noncore,Applications of artificial intelligence,2
+core,Content (measure theory),2
+core,Personalization,2
+core,Generative model,2
+core,Generalization,2
+core,Generalizability theory,2
+core,Fuzzy logic,2
+core,Higher education,2
+core,Heuristic,2
+core,"Healthcare cost, quality, practices",2
+noncore,Economics,2
+noncore,Behavioral Health and Interventions,2
+noncore,Chemistry,2
+core,Computer network,2
+core,Computer engineering,2
+core,Computational intelligence,2
+core,Overfitting,2
+core,Orchestration,2
+core,Operations management,2
+core,Human resources,2
+core,Cell Image Analysis Techniques,2
+core,Business intelligence,2
+core,Computation,2
+core,Complex Systems and Time Series Analysis,2
+noncore,Critical thinking,2
+noncore,Control (management),2
+noncore,Deep learning,2
+noncore,Death Anxiety and Social Exclusion,2
+core,Applied psychology,2
+core,Applications of artificial intelligence,2
+core,Bayesian probability,2
+core,Autonomy,2
+noncore,Medicine,2
+noncore,Mechanical engineering,2
+core,Machine Fault Diagnosis Techniques,2
+core,IoT and Edge/Fog Computing,2
+noncore,Point (geometry),2
+noncore,Geography,2
+noncore,"Genetics, Bioinformatics, and Biomedical Research",2
+core,Brain Tumor Detection and Classification,2
+core,Botany,2
+core,Complex Network Analysis Techniques,2
+noncore,Finance,2
+noncore,Everyday life,2
+noncore,"Epistemology, Ethics, and Metaphysics",2
+core,Occupational Health and Safety Research,2
+core,Novelty,2
+core,Horse,2
+core,History,2
+core,Medical Imaging and Analysis,2
+core,Model Reduction and Neural Networks,2
+core,Misinformation and Its Impacts,2
+core,Meteorology,2
+core,Music and Audio Processing,2
+core,Implementation,2
+noncore,Linguistics,2
+noncore,"Law, AI, and Intellectual Property",2
+core,Binary classification,2
+noncore,Human intelligence,2
+noncore,History,2
+noncore,Higher education,2
+noncore,Health care,2
+noncore,German,2
+noncore,Relevance (law),2
+noncore,Software engineering,2
+core,Adaptive Dynamic Programming Control,2
+core,Autoencoder,2
+core,Aside,2
+core,Binary number,2
+noncore,Innovative Teaching and Learning Methods,2
+core,Identification and Quantification in Food,2
+core,Identification (biology),2
+core,Internet of Things,2
+core,Machine vision,2
+core,Information privacy,2
+noncore,Sustainability,2
+core,Advanced Text Analysis Techniques,2
+noncore,Structural engineering,2
+noncore,Thematic analysis,2
+noncore,Topic Modeling,2
+noncore,Statistical model,1
+core,Additive Manufacturing Materials and Processes,1
+core,Adaptive neuro fuzzy inference system,1
+core,Actuarial science,1
+core,Activity tracker,1
+core,Activity recognition,1
+core,Active matter,1
+core,Acoustics,1
+core,2019-20 coronavirus outbreak,1
+core,3D Surveying and Cultural Heritage,1
+noncore,Visual arts,1
+core,Advanced Image and Video Retrieval Techniques,1
+core,Advanced Multi-Objective Optimization Algorithms,1
+core,Advanced Numerical Analysis Techniques,1
+core,Advanced Sensor and Energy Harvesting Materials,1
+core,Advanced Statistical Process Monitoring,1
+core,Advanced Vision and Imaging,1
+core,Advanced machining processes and optimization,1
+noncore,Sentiment Analysis and Opinion Mining,1
+noncore,Sentiment analysis,1
+noncore,Set (abstract data type),1
+noncore,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),1
+noncore,Skepticism,1
+noncore,Social Robot Interaction and HRI,1
+noncore,Social and Intergroup Psychology,1
+noncore,Social media,1
+noncore,Sociotechnical system,1
+core,Interactive and Immersive Displays,1
+core,Internet Traffic Analysis and Secure E-voting,1
+core,Internet privacy,1
+core,Irony,1
+core,Iterative Learning Control Systems,1
+core,Job shop,1
+core,Job shop scheduling,1
+core,Loan,1
+core,Local binary patterns,1
+core,Logistic regression,1
+core,Logit,1
+core,Long short term memory,1
+core,Longitudinal field,1
+core,Longitudinal study,1
+core,Lorenz system,1
+core,Machine Learning and ELM,1
+core,Innovative concrete reinforcement materials,1
+core,Instance-based learning,1
+core,Insurance and Financial Risk Management,1
+core,Integrated Circuits and Semiconductor Failure Analysis,1
+core,Intellectual property,1
+core,Machine tool,1
+core,Machining,1
+core,Magnetic field,1
+core,Manifesto,1
+core,Manufacturing Process and Optimization,1
+core,Margin (machine learning),1
+core,Markov decision process,1
+core,Markov process,1
+core,Intelligent agent,1
+core,Intelligent control,1
+core,Intelligent decision support system,1
+core,Mathematical economics,1
+core,Mathematical optimization,1
+core,Mean squared error,1
+core,Measure (data warehouse),1
+core,Mechanism (biology),1
+core,Medical diagnosis,1
+core,Medical education,1
+core,Medical imaging,1
+core,Memristor,1
+core,Meta-analysis and systematic reviews,1
+core,Metaheuristic Optimization Algorithms Research,1
+core,Industrial control system,1
+core,Inertial Sensor and Navigation,1
+core,Information system,1
+core,Infrastructure Maintenance and Monitoring,1
+core,Innovation Policy and R&D,1
+core,Municipal Solid Waste Management,1
+core,Municipal solid waste,1
+core,Music Technology and Sound Studies,1
+core,Metaphor,1
+core,Metastasis,1
+core,Meteorological Phenomena and Simulations,1
+core,Metric (unit),1
+core,Micro and Nano Robotics,1
+core,Microbial Natural Products and Biosynthesis,1
+core,Microeconomics,1
+core,Microgrid,1
+core,Microgrid Control and Optimization,1
+core,Microplastics and Plastic Pollution,1
+core,Mobile robot,1
+core,Modalities,1
+core,Modular design,1
+core,Image and Video Quality Assessment,1
+core,Image quality,1
+core,Immunology,1
+core,Inclusion (mineral),1
+core,Inductive transfer,1
+core,Molecular Communication and Nanonetworks,1
+core,Monetary economics,1
+core,Mortar,1
+core,Motion blur,1
+core,Moving average,1
+core,Multi-agent system,1
+core,Multi-mode optical fiber,1
+core,Multi-task learning,1
+core,Multilayer perceptron,1
+core,Multimedia,1
+core,Multivariate statistics,1
+core,Opacity,1
+core,Open quantum system,1
+core,Open research,1
+core,Operationalization,1
+core,NASA Deep Space Network,1
+core,Nanotechnology,1
+core,Natural (archaeology),1
+core,Natural disaster,1
+core,Natural language,1
+core,Natural language understanding,1
+core,Network science,1
+core,"Neuroethics, Human Enhancement, Biomedical Innovations",1
+core,Neuromorphic engineering,1
+core,Human-Automation Interaction and Safety,1
+core,Image Processing Techniques and Applications,1
+core,Image Processing and 3D Reconstruction,1
+core,Health records,1
+core,Heat Transfer and Optimization,1
+core,Heuristics,1
+core,Histogram,1
+core,Hospitality,1
+core,Human Mobility and Location-Based Analysis,1
+core,Human Pose and Action Recognition,1
+core,Human resource management,1
+core,Nonlinear system,1
+core,Nonmelanoma Skin Cancer Studies,1
+core,Object (grammar),1
+core,Object detection,1
+core,Obstacle,1
+core,Oceanography,1
+core,Offensive,1
+core,Online advertising,1
+core,Gradient descent,1
+core,Grading (engineering),1
+core,Grammar,1
+core,Graph Theory and Algorithms,1
+core,Greenhouse Technology and Climate Control,1
+core,Grid,1
+core,Optical Network Technologies,1
+core,Optical fiber,1
+core,Order (exchange),1
+core,Organizational and Employee Performance,1
+core,Organizational performance,1
+core,Outbreak,1
+core,Outcome (game theory),1
+core,Painting,1
+core,Parameter space,1
+core,Harm,1
+core,Garbage,1
+core,Gear and Bearing Dynamics Analysis,1
+core,Genetic algorithm,1
+core,Genetics,1
+core,Parsing,1
+core,Particle swarm optimization,1
+core,Perceptron,1
+core,Period (music),1
+core,Perturbation (astronomy),1
+core,Phishing,1
+core,Photonic Crystal and Fiber Optics,1
+core,"Genetics, Bioinformatics, and Biomedical Research",1
+core,Geotechnical engineering,1
+core,Gesture,1
+core,Globalization,1
+core,Government (linguistics),1
+core,Production line,1
+core,Photonic-crystal fiber,1
+core,Photonics,1
+core,Photoreceptor and optogenetics research,1
+core,Physical Unclonable Functions (PUFs) and Hardware Security,1
+core,Pipeline (software),1
+core,Plan (archaeology),1
+core,Plant Disease Management Techniques,1
+core,Plastic bag,1
+core,Plastic waste,1
+core,Polypropylene,1
+core,Pooling,1
+core,Frontier,1
+core,Fuzzy Logic and Control Systems,1
+core,Fuzzy control system,1
+core,Gait Recognition and Analysis,1
+core,Promotion (chess),1
+core,Prosperity,1
+core,Prostate,1
+core,Prostate Cancer Diagnosis and Treatment,1
+core,Prostate cancer,1
+core,Prosumer,1
+core,Pruning,1
+core,Portfolio,1
+core,Positive attitude,1
+core,Power (physics),1
+core,Predictive maintenance,1
+core,Private sector,1
+core,Probabilistic logic,1
+core,Procedural modeling,1
+core,Process engineering,1
+core,Product (mathematics),1
+core,Fitness function,1
+core,Flexible and Reconfigurable Manufacturing Systems,1
+core,Flood Risk Assessment and Management,1
+core,Flourishing,1
+core,Flow shop scheduling,1
+core,Food Supply Chain Traceability,1
+core,Food supply,1
+core,Forcing (mathematics),1
+core,Foreign exchange market,1
+core,Forgetting,1
+core,Foundation (evidence),1
+core,Production planning,1
+core,Productivity,1
+core,Profit (economics),1
+core,Prognostics,1
+core,Projection (relational algebra),1
+core,Experimental Behavioral Economics Studies,1
+core,Exploit,1
+core,Exposition (narrative),1
+core,Extant taxon,1
+core,Psychotherapist,1
+core,Public law,1
+core,Public value,1
+core,Pulse (music),1
+core,Quantitative structure–activity relationship,1
+core,Quantization (signal processing),1
+core,Quantum algorithm,1
+core,Quantum circuit,1
+core,Extreme learning machine,1
+core,Facial expression,1
+core,Family medicine,1
+core,Financial economics,1
+core,Quantum information,1
+core,Quantum machine learning,1
+core,Quantum technology,1
+core,Range (aeronautics),1
+core,Reading (process),1
+core,Recycling and Waste Management Techniques,1
+core,Reinforcement,1
+core,Reliability and Maintenance Optimization,1
+core,Equity (law),1
+core,Equivariant map,1
+core,Ethics in Clinical Research,1
+core,Event (particle physics),1
+core,Evolutionary Algorithms and Applications,1
+core,Evolutionary Game Theory and Cooperation,1
+core,Exchange rate,1
+core,Expectancy theory,1
+core,End-to-end principle,1
+core,Engineering Technology and Methodologies,1
+core,Ensemble learning,1
+core,Entropy (arrow of time),1
+core,Environmental economics,1
+core,Environmental science,1
+core,Epilepsy research and treatment,1
+core,Reliability engineering,1
+core,Rendering (computer graphics),1
+core,Renewable energy,1
+core,Research Data Management Practices,1
+core,Resistive random-access memory,1
+core,Revenue,1
+core,Robot learning,1
+core,Robotics and Sensor-Based Localization,1
+core,Routing (electronic design automation),1
+core,Similarity (geometry),1
+core,Simulation,1
+core,Skewness,1
+core,Rule of law,1
+core,SAFER,1
+core,SIGNAL (programming language),1
+core,SWOT analysis,1
+core,Sample (material),1
+core,Sarcasm,1
+core,Scheduling and Optimization Algorithms,1
+core,Scholarship,1
+core,Scientific literature,1
+core,Scope (computer science),1
+core,Encoder,1
+core,Encoding (memory),1
+core,Encryption,1
+core,Electric Power System Optimization,1
+core,Electroencephalography,1
+core,Electronic circuit,1
+core,Electronic health record,1
+core,Elevator Systems and Control,1
+core,Embodied cognition,1
+core,Emotion and Mood Recognition,1
+core,Emotion recognition,1
+core,Employer Branding and e-HRM,1
+core,Selection (genetic algorithm),1
+core,Sepsis,1
+core,Sepsis Diagnosis and Treatment,1
+core,Service (business),1
+core,Servomechanism,1
+core,Sharing Economy and Platforms,1
+core,Signal processing,1
+core,ENCODE,1
+core,Early warning system,1
+core,Earth system science,1
+core,Economic and Technological Systems Analysis,1
+core,Skin cancer,1
+core,Smart Cities and Technologies,1
+core,Smart Grid Energy Management,1
+core,Smart camera,1
+core,Smart city,1
+core,Smart contract,1
+core,Social Robot Interaction and HRI,1
+core,Social media,1
+core,Social responsibility,1
+core,Sociocultural evolution,1
+core,Educational data mining,1
+core,Efficient energy use,1
+core,Sociotechnical system,1
+core,Soft robotics,1
+core,Solar and Space Plasma Dynamics,1
+core,Soliton,1
+core,Solver,1
+core,Sonar,1
+core,Sorting,1
+core,Space (punctuation),1
+core,Space Satellite Systems and Control,1
+core,Spacecraft,1
+core,Spam and Phishing Detection,1
+core,Spectroscopy and Chemometric Analyses,1
+core,Diversity (politics),1
+core,Drug target,1
+core,ECG Monitoring and Analysis,1
+core,EEG and Brain-Computer Interfaces,1
+core,Disadvantage,1
+core,Discipline,1
+core,Discrete wavelet transform,1
+core,Distributed computing,1
+core,Distributed generation,1
+core,Distrust,1
+core,Diverse Musicological Studies,1
+core,Speech and Audio Processing,1
+core,Speech and dialogue systems,1
+core,Spike (software development),1
+core,Spillage,1
+core,Stakeholder,1
+core,State space,1
+core,Stock (firearms),1
+core,Stock exchange,1
+core,Stock market prediction,1
+core,Detector,1
+core,Digital Games and Media,1
+core,Stock trading,1
+core,Structural engineering,1
+core,Supercontinuum,1
+core,Supply chain management,1
+core,Sustainability,1
+core,Sustainable Supply Chain Management,1
+core,Sustainable development,1
+core,Swarm behaviour,1
+core,Synthetic Aperture Radar (SAR) Applications and Techniques,1
+core,Digital pathology,1
+core,Digital signal processing,1
+core,Digital transformation,1
+core,Digital watermarking,1
+core,Directed acyclic graph,1
+core,Tourism,1
+core,Tracking (education),1
+core,Traffic control and management,1
+core,Training (meteorology),1
+core,Tactile and Sensory Interactions,1
+core,Taxonomy (biology),1
+core,Telemedicine,1
+core,Term (time),1
+core,The arts,1
+core,Theme (computing),1
+core,Database transaction,1
+core,Debt,1
+core,Decomposition,1
+core,Delegation,1
+core,Dementia and Cognitive Impairment Research,1
+core,Demographic economics,1
+core,Crossbar switch,1
+core,Cultural heritage,1
+core,Currency,1
+core,Curriculum,1
+core,Curse of dimensionality,1
+core,Cutaneous Melanoma Detection and Management,1
+core,Cutting tool,1
+core,Data Protection Act 1998,1
+core,Data collection,1
+core,Data pre-processing,1
+core,Theory of computation,1
+core,Thermal,1
+core,Thermodynamics,1
+core,Thriving,1
+core,Tool wear,1
+core,Topological and Geometric Data Analysis,1
+core,Visual inspection,1
+core,Visualization,1
+core,Transferability,1
+core,Transformative learning,1
+core,Transportation Planning and Optimization,1
+core,Tunneling and Rock Mechanics,1
+core,USable,1
+core,Ultrashort pulse,1
+core,Uncertainty analysis,1
+core,Uncertainty quantification,1
+core,Underwater Acoustics Research,1
+core,Underwater Vehicles and Communication Systems,1
+core,Unified theory of acceptance and use of technology,1
+core,Univariate,1
+core,Unpacking,1
+core,Cross-sectional study,1
+core,Corporate governance,1
+core,Corporate social responsibility,1
+core,Correlation,1
+core,Creativity in Education and Neuroscience,1
+core,Credit rating,1
+core,Credit score,1
+core,Crisis management,1
+core,Variable (mathematics),1
+core,Variance (accounting),1
+core,Variance decomposition of forecast errors,1
+core,Vehicle Routing Optimization Methods,1
+core,Video Analysis and Summarization,1
+core,Video Surveillance and Tracking Methods,1
+core,Violin musical styles,1
+core,Virology,1
+core,Visual Attention and Saliency Detection,1
+noncore,Anxiety,1
+noncore,Argumentation framework,1
+core,Warning system,1
+core,Wavelet,1
+core,Wavelet transform,1
+core,Wearable computer,1
+core,Web API,1
+core,Web modeling,1
+core,Web of science,1
+core,Work (physics),1
+core,Workflow,1
+core,vaccines and immunoinformatics approaches,1
+noncore,2019-20 coronavirus outbreak,1
+core,Coordinate system,1
+core,Core (optical fiber),1
+core,Coronavirus,1
+core,Constructive,1
+core,Consumer Market Behavior and Pricing,1
+core,Consumption (sociology),1
+core,Context-Aware Activity Recognition Systems,1
+core,Continuous wavelet transform,1
+core,Controller (irrigation),1
+noncore,Adaptive learning,1
+noncore,Adaptive system,1
+noncore,Adult literacy,1
+noncore,Advanced Neural Network Applications,1
+noncore,Advanced Text Analysis Techniques,1
+noncore,Adversarial system,1
+noncore,Advertising,1
+noncore,Advertising campaign,1
+noncore,Agency (philosophy),1
+noncore,Agriculture,1
+noncore,"Computability, Logic, AI Algorithms",1
+noncore,Argumentation theory,1
+noncore,Artificial general intelligence,1
+noncore,Artificial neural network,1
+noncore,Automation,1
+noncore,Autonomic computing,1
+noncore,Autonomy,1
+noncore,Big Data and Digital Economy,1
+noncore,Biochemistry,1
+noncore,Blockchain Technology Applications and Security,1
+noncore,Brain Tumor Detection and Classification,1
+core,Computer-integrated manufacturing,1
+core,Conditional probability,1
+core,Confidentiality,1
+core,Consistency (knowledge bases),1
+core,Construct (python library),1
+core,Compressive strength,1
+core,Compromise,1
+core,Computer architecture,1
+core,Computer hardware,1
+noncore,CLARITY,1
+noncore,COVID-19 Digital Contact Tracing,1
+noncore,COVID-19 diagnosis using AI,1
+noncore,Cartography,1
+noncore,China,1
+noncore,Chromatography,1
+noncore,Class (philosophy),1
+noncore,Cloud Computing and Resource Management,1
+noncore,Cloud computing,1
+noncore,Cloud computing security,1
+noncore,Cognitive psychology,1
+noncore,Competition (biology),1
+noncore,"Digitalization, Law, and Regulation",1
+noncore,Disease,1
+noncore,Distributed computing,1
+noncore,Distributive property,1
+noncore,Computational Drug Discovery Methods,1
+noncore,Computational thinking,1
+noncore,Cooperative learning,1
+noncore,Cornerstone,1
+noncore,Coronavirus disease 2019 (COVID-19),1
+noncore,Corporate governance,1
+noncore,Creativity,1
+noncore,Cyberloafing and Workplace Behavior,1
+noncore,Damages,1
+noncore,Data Protection Act 1998,1
+core,Complex network,1
+core,Comprehension,1
+noncore,Economics education,1
+noncore,Electrical engineering,1
+noncore,Electrical impedance,1
+noncore,Embodied and Extended Cognition,1
+noncore,Empathy,1
+noncore,End-user computing,1
+noncore,Enforcement,1
+noncore,Data collection,1
+noncore,Data mining,1
+noncore,Deliberation,1
+noncore,Dialogical self,1
+noncore,Digital Education and Society,1
+noncore,Digital Transformation in Law,1
+noncore,Digital advertising,1
+noncore,Digital literacy in education,1
+noncore,Digital marketing,1
+core,Civil engineering,1
+core,Clickstream,1
+core,Climate variability and models,1
+core,Climatology,1
+core,Cloning (programming),1
+core,Cloud computing,1
+core,Cluster analysis,1
+core,Cognitive psychology,1
+core,Cognitive science,1
+core,Collaboration in agile enterprises,1
+core,Comparative law,1
+noncore,Diverse Perspectives in Modern Studies,1
+noncore,Domain (mathematical analysis),1
+noncore,Drama,1
+noncore,E-Learning and Knowledge Management,1
+noncore,Economic growth,1
+core,COVID-19 and healthcare impacts,1
+core,Cancer Cells and Metastasis,1
+core,Categorical variable,1
+core,Cell biology,1
+core,Cement,1
+core,Chaotic,1
+noncore,Enlightenment,1
+noncore,Equity (law),1
+noncore,Ethical issues,1
+noncore,Ethics in Business and Education,1
+noncore,Field (mathematics),1
+noncore,Formal education,1
+noncore,Framing (construction),1
+noncore,Free Will and Agency,1
+core,Chromatography,1
+core,Circulating tumor cell,1
+core,Blind Source Separation Techniques,1
+core,Blockchain,1
+core,Blueprint,1
+core,Bottleneck,1
+core,Bridge (graph theory),1
+noncore,Futures studies,1
+noncore,Gender studies,1
+noncore,Generative model,1
+noncore,Geodesy,1
+noncore,Granularity,1
+noncore,"Healthcare cost, quality, practices",1
+noncore,Human-Automation Interaction and Safety,1
+core,Broadband,1
+core,Business Process Modeling and Analysis,1
+core,CCD and CMOS Imaging Sensors,1
+core,COVID-19 Pandemic Impacts,1
+noncore,Management,1
+noncore,Human-in-the-loop,1
+noncore,Human–robot interaction,1
+noncore,Image segmentation,1
+noncore,Impedance control,1
+noncore,Infectious disease (medical specialty),1
+noncore,Informal education,1
+noncore,Information Systems Theories and Implementation,1
+noncore,"Innovation, Technology, and Society",1
+noncore,Intelligent Tutoring Systems and Adaptive Learning,1
+noncore,IoT and Edge/Fog Computing,1
+noncore,Key (lock),1
+core,Bioinformatics and Genomic Networks,1
+core,Biomarker,1
+core,Biomedicine,1
+core,Blame,1
+core,Bayesian Modeling and Causal Inference,1
+core,Bayesian inference,1
+core,Bayesian network,1
+core,Bearing (navigation),1
+core,Behavioral pattern,1
+core,Belt Conveyor Systems Engineering,1
+noncore,Law and economics,1
+noncore,Legal Systems and Judicial Processes,1
+noncore,Legislature,1
+noncore,Legitimacy,1
+noncore,Library science,1
+noncore,Limit (mathematics),1
+noncore,Limiting,1
+noncore,Line (geometry),1
+noncore,Machine Learning in Healthcare,1
+noncore,Machine Learning in Materials Science,1
+noncore,Pace,1
+noncore,Pandemic,1
+noncore,Pathology,1
+noncore,Pattern recognition (psychology),1
+noncore,Marketing,1
+noncore,Materials science,1
+noncore,Mediation,1
+noncore,Medical Image Segmentation Techniques,1
+noncore,Medical education,1
+noncore,Metaphor,1
+noncore,Meteorology,1
+noncore,Misinformation and Its Impacts,1
+noncore,Multi-Agent Systems and Negotiation,1
+noncore,Multimedia,1
+core,BIM and Construction Integration,1
+core,Bacillus and Francisella bacterial research,1
+core,Asset (computer security),1
+core,Assistive Technology in Communication and Mobility,1
+core,Asymmetry,1
+core,Atmospheric and Environmental Gas Dynamics,1
+core,Audio visual,1
+core,Audit,1
+core,Autism,1
+core,Autism Spectrum Disorder Research,1
+core,Autism spectrum disorder,1
+noncore,Muscle activation and electromyography studies,1
+noncore,Narrative,1
+noncore,Natural language processing,1
+noncore,Online advertising,1
+noncore,Open learning,1
+noncore,Order (exchange),1
+noncore,Outbreak,1
+core,Air quality index,1
+core,Algorithmic learning theory,1
+noncore,Personalized learning,1
+noncore,Popularity,1
+noncore,Power (physics),1
+noncore,Primary education,1
+noncore,Probabilistic argumentation,1
+noncore,Probabilistic logic,1
+core,Anonymity,1
+core,Anthropology,1
+core,Applicability domain,1
+core,Archaeological Research and Protection,1
+core,Artificial Intelligence System,1
+core,Artificial Intelligence in Education,1
+core,Artificial Intelligence in Games,1
+core,Artificial general intelligence,1
+noncore,Process management,1
+noncore,Promotion (chess),1
+noncore,Prosthetics and Rehabilitation Robotics,1
+noncore,Psychiatry,1
+noncore,Public opinion,1
+noncore,Public trust,1
+noncore,Qualitative property,1
+noncore,Quantum,1
+noncore,Quantum computer,1
+core,Advancements in Semiconductor Devices and Circuit Design,1
+core,Aerospace engineering,1
+core,Aesthetic Perception and Analysis,1
+core,Agency (philosophy),1
+core,Agricultural science,1
+core,Agriculture,1
+core,Air Quality and Health Impacts,1
+noncore,Software deployment,1
+noncore,Space Science and Extraterrestrial Life,1
+noncore,Standardized test,1
+noncore,Race (biology),1
+noncore,Race to the Top,1
+noncore,Reinforcement,1
+noncore,Reinforcement learning,1
+noncore,Relation (database),1
+noncore,Reliability (semiconductor),1
+noncore,Representation (politics),1
+noncore,Risk analysis (engineering),1
+noncore,Robot,1
+noncore,Robot Manipulation and Learning,1
+noncore,Sample (material),1
+noncore,Segmentation,1
+noncore,Sentence,1
+noncore,Virology,1
+noncore,Statistics,1
+noncore,Stock Market Forecasting Methods,1
+noncore,Structural equation modeling,1
+noncore,Subject (documents),1
+noncore,Task (project management),1
+noncore,Teaching method,1
+noncore,Teamwork,1
+noncore,"Technology, Environment, Urban Planning",1
+noncore,Technology-Enhanced Education Studies,1
+noncore,The Internet,1
+noncore,X-ray Diffraction in Crystallography,1
+core,Additive Manufacturing and 3D Printing Technologies,1
+core,Advanced Chemical Sensor Technologies,1
+core,Advanced Fiber Laser Technologies,1
+core,Advanced Image Processing Techniques,1
+core,Knowledge integration,1
+core,Labor market dynamics and wage inequality,1
+core,Labour economics,1
+core,Landslide,1
+core,Landslides and related hazards,1
+core,Laser,1
+core,Law and economics,1
+core,Legal Education and Practice Innovations,1
+core,Literal and figurative language,1
+noncore,Traceability,1
+noncore,Training (meteorology),1
+noncore,Treatment and control groups,1
+noncore,Ubiquitous computing,1
+noncore,Usability,1
+noncore,Utility computing,1
+noncore,Variable (mathematics),1
